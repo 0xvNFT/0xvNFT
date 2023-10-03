@@ -2,7 +2,7 @@
 )](https://0xvNFT.github.io)
 <h1 align="center">Hi 👋, I'm V.</h1>
 <h3 align="center">A passionate Backend Developer</h3>
-<img align="right" alt="Coding" width="350" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
+<img align="right" alt="Coding" width="150" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xvnft&label=Profile%20views&color=0e75b6&style=flat" alt="0xvnft" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xvnft" alt="0xvnft" /></a> </p>
