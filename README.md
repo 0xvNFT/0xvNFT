@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://0xvnft.github.io/](https://0xvnft.github.io/)
 
-- 📝 I regularly write articles on [https://stackoverflow.com/users/12280406/solitude](https://stackoverflow.com/users/12280406/solitude)
+- 📝 I regularly write and ask on [https://stackoverflow.com/users/12280406/solitude](https://stackoverflow.com/users/12280406/solitude)
 
 - 💬 Ask me about **JS, Java, Android**
 
 - 📫 How to reach me **0xvNFT@gmail.com**
 
-- 📄 Know about my experiences [https://stackoverflow.com/users/12280406/solitude](https://stackoverflow.com/users/12280406/solitude)
+- 📄 My Stackoverflow [https://stackoverflow.com/users/12280406/solitude](https://stackoverflow.com/users/12280406/solitude)
 
 - ⚡ Fun fact **I may be reserved in nature, but I possess a great sense of humor.**
 
