@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xvnft" target="blank"><img src="https://img.shields.io/twitter/follow/0xvnft?logo=twitter&style=for-the-badge" alt="0xvnft" /></a> </p>
 
-- 🔭 I’m currently working on [Android Projects & Client based Websites](Private)
+- 🔭 I’m currently working on [Android Application Projects & Client based Websites](Private)
 
 - 🌱 I’m currently learning **Python, Dart, Flutter, DevOps, Full Stack Development**
 
