@@ -21,7 +21,7 @@
 
 - 📝 I regularly write and ask on [https://stackoverflow.com/users/12280406/solitude](https://stackoverflow.com/users/12280406/solitude)
 
-- 💬 Ask me about **JS, Java, Android**
+- 💬 Ask me about **JS, Java, Android Development**
 
 - 📫 How to reach me **0xvNFT@gmail.com**
 
