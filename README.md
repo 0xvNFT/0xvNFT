@@ -51,7 +51,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact" alt="0xvnft" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true" alt="0xvnft" />
   <img src="https://github-readme-stats.vercel.app/api?username=0xvnft&show_icons=true&locale=en" alt="0xvnft" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft&" alt="0xvnft" />
 </div>
