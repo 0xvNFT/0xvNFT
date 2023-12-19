@@ -31,6 +31,7 @@
 - 💬 Ask me about JS, Java, Android Development
 - 📫 How to reach me: 0xvNFT@gmail.com
 - 📄 My Stackoverflow Profile: [Solitude](https://stackoverflow.com/users/12280406/solitude)
+- 🔖 My old Github profile: [Jeiseun1017](https://github.com/jeiseun1017)
 - ⚡ Fun fact: I may be reserved in nature, but I possess a great sense of humor.
 
 ## Connect with Me:
