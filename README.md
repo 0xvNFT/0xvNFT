@@ -65,3 +65,5 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0xvNFT" />
   </a>
 </p>
+
+<div align="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></div>
