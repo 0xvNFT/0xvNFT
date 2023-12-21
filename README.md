@@ -21,6 +21,8 @@
   </a>
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## About Me:
 - 🔭 I’m currently working on Android Application Projects & Client-based Websites (Private)
 - 🌱 I’m currently learning Python, Dart, Flutter, DevOps, Full Stack Development
@@ -70,4 +72,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
