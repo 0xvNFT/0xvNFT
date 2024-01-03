@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)](https://0xvNFT.github.io)
 
-<h1 align="center">Hi 👋, I'm v.</h1>
+<h1 align="center">Hello! Call me v..</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
 <p align="center">
