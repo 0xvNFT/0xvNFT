@@ -25,12 +25,12 @@
 
 ## About Me:
 - 🔭 I’m currently working on Android Application Projects & Client-based Websites (Private)
-- 🌱 I’m currently learning Python, Dart, Flutter, DevOps, Full Stack Development
-- 👯 I’m looking to collaborate on Full Stack Development
-- 🤝 I’m looking for help with Data Analytics & Machine Learning
+- 🌱 I’m currently learning Python,In depth Web Development, Full Stack Development
+- 👯 I’m open to create system for small businesses
+- 🤝 I’m looking for collaboration with other developer as well
 - 👨‍💻 All of my projects are available at [My Portfolio](https://0xvnft.github.io/)
 - 📝 I regularly write and ask on [Stack Overflow](https://stackoverflow.com/users/12280406/solitude)
-- 💬 Ask me about JS, Java, Android Development
+- 💬 Ask me about JS, Java, Android and Web Development
 - 📫 How to reach me: 0xvNFT@gmail.com
 - 📄 My Stackoverflow Profile: [Solitude](https://stackoverflow.com/users/12280406/solitude)
 - 🔖 My old Github profile: [Jeiseun1017](https://github.com/jeiseun1017)
