@@ -24,8 +24,8 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## About Me:
-- 🔭 I’m currently working on Android Application Projects & Client-based Websites (Private)
-- 🌱 I’m currently learning Python,In depth Web Development, Full Stack Development
+- 🔭 I’m currently working on C# & Client-based Websites (Private)
+- 🌱 I’m currently learning C#,In depth Web Development, Full Stack Development
 - 👯 I’m open to create system for small businesses
 - 🤝 I’m looking for collaboration with other developer as well
 - 👨‍💻 All of my projects are available at [My Portfolio](https://0xvnft.github.io/)
