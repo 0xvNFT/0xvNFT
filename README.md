@@ -66,7 +66,7 @@
 
 ## Support My Work:
 <p align="center">
-  <a href="https://www.buymeacoffee.com/@0xvNFT">
+  <a href="https://www.buymeacoffee.com/0xvNFT">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@0xvNFT" />
   </a>
   <a href="https://ko-fi.com/0xvNFT">
