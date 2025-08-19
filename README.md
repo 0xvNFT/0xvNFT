@@ -17,7 +17,15 @@
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -91,6 +99,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical#gh-dark-mode-only" alt="langs dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=0xvnft&show_icons=true&locale=en&theme=radical#gh-dark-mode-only" alt="stats dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft&theme=radical#gh-dark-mode-only" alt="streak dark"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xvnft&theme=radical&utcOffset=8" alt="Commit Stats"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xvnft&theme=radical" alt="Visitor Map"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xvnft&theme=radical" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xvnft&theme=radical" alt="Most commit language"/>
+
 </div>
 
 ---
@@ -125,9 +141,10 @@
 
 ---
 <div align="center">
-
+    <!-- Developer Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quote"/>
 
 </div>
 
@@ -136,9 +153,7 @@
   <img src="https://leetcard.jacoblin.cool/0xvnft?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
 </div> -->
 
-----
-
-<p align="center">
+  <!-- <p align="center">
   <img src="https://spotify-github-profile-mu1lb7jfx-0xvnfts-projects.vercel.app/view.svg?uid=31ipdkjlin6r6koj3abxkbloI2ca&theme=compact&cover_image=true&show_offline=true&background_color=121212" alt="Spotify Now Playing" />
-</p>
+</p> -->
 
