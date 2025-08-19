@@ -13,13 +13,13 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Light mode -->
-    <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=flat&no-frame=true#gh-light-mode-only" alt="0xvnft trophies light"/>
-    <!-- Dark mode -->
-    <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=onedark&no-frame=true#gh-dark-mode-only" alt="0xvnft trophies dark"/>
-  </a>
+  <!-- Light mode -->
+  <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=flat&no-frame=true#gh-light-mode-only" alt="0xvnft trophies light"/>
+  
+  <!-- Dark mode -->
+  <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=onedark&no-frame=true#gh-dark-mode-only" alt="0xvnft trophies dark"/>
 </p>
+
 
 ---
 
