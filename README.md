@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-light-mode-only)](https://0xvNFT.github.io)
+<!--[![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-light-mode-only)](https://0xvNFT.github.io)-->
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-dark-mode-only)](https://0xvNFT.github.io)
 
 <h1 align="center">👋 Hello, I'm v.</h1> 
@@ -13,7 +13,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <!-- Light mode -->
-  <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=flat&no-frame=true#gh-light-mode-only" alt="0xvnft trophies light"/>
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=flat&no-frame=true#gh-light-mode-only" alt="0xvnft trophies light"/>-->
   
   <!-- Dark mode -->
   <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=onedark&no-frame=true#gh-dark-mode-only" alt="0xvnft trophies dark"/>
@@ -74,9 +74,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Light mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true#gh-light-mode-only" alt="langs light"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true#gh-light-mode-only" alt="langs light"/>
   <img src="https://github-readme-stats.vercel.app/api?username=0xvnft&show_icons=true&locale=en#gh-light-mode-only" alt="stats light"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft#gh-light-mode-only" alt="streak light"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft#gh-light-mode-only" alt="streak light"/>-->
 
   <!-- Dark mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical#gh-dark-mode-only" alt="langs dark"/>
