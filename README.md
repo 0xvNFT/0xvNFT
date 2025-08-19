@@ -2,7 +2,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-dark-mode-only)](https://0xvNFT.github.io)
 
 <h1 align="center">👋 Hello, I'm v.</h1> 
-<h3 align="center">🚀 Passionate Backend Developer | 💡 Tech Explorer | 🤝 Open to Collaboration</h3> 
+<h3 align="center">🚀 Passionate Backend Developer | 💡 Tech Explorer | 🤝 Open for Collaboration</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xvnft&label=Profile%20views&color=0e75b6&style=flat" alt="0xvnft" />
@@ -49,9 +49,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **C#, PHP, Java, and Client-based Systems (Private Projects)**
-- 🌱 Deepening my knowledge in **C#, PHP, Full-Stack Development, and Modern Web Practices**
-- 👯 Open to building **custom systems for small businesses**
+- 🔭 Currently working on **C#(.NET), PHP, Java, and Client-based Systems (Private Projects)**
+- 🌱 Deepening my knowledge in **C#, PHP, Full-Stack Development, Modern Web Practices, API, DevOps, and AI Tools**
+- 👯 Open to building **Custom Systems for small businesses**
 - 🤝 Looking to **collaborate with fellow developers** on meaningful projects
 - 👨‍💻 Explore my work: [My Portfolio](https://0xvnft.github.io/)
 - 📝 Active contributor on [Stack Overflow](https://stackoverflow.com/users/12280406/solitude)
