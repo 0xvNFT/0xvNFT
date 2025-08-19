@@ -8,7 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=0xvnft&label=Profile%20views&color=0e75b6&style=flat" alt="0xvnft" />
 </p>
 
+<br> </br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Backend+Developer;Open+Source+Contributor;Tech+Explorer;Always+Learning" alt="Typing SVG" />
+  </a>
+</div>
+
 ---
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -107,4 +116,29 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+![0xvNFT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xvnft&theme=github-compact)
+
+---
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+---
+  <!-- <div align="center">
+  <img src="https://leetcard.jacoblin.cool/0xvnft?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+</div> -->
+
+----
+
+<p align="center">
+  <img src="https://spotify-github-profile-mu1lb7jfx-0xvnfts-projects.vercel.app/view.svg?uid=31ipdkjlin6r6koj3abxkbloI2ca&theme=compact&cover_image=true&show_offline=true&background_color=121212" alt="Spotify Now Playing" />
+</p>
+
