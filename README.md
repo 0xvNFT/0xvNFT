@@ -105,7 +105,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xvnft&theme=radical" alt="Visitor Map"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xvnft&theme=radical" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xvnft&theme=radical" alt="Most commit language"/>
 
 </div>
 
@@ -140,14 +139,12 @@
 ![0xvNFT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xvnft&theme=github-compact)
 
 ---
-<div align="center">
-    <!-- Developer Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quote"/>
-
-</div>
-
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke"/>
+</p>
 ---
   <!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/0xvnft?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
