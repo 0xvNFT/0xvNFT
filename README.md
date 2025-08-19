@@ -1,14 +1,13 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-light-mode-only)](https://0xvNFT.github.io)
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs#gh-dark-mode-only)](https://0xvNFT.github.io)
 
-<h1 align="center">👋 Hello, I'm v. </h1> 
+<h1 align="center">👋 Hello, I'm v.</h1> 
 <h3 align="center">🚀 Passionate Backend Developer | 💡 Tech Explorer | 🤝 Open to Collaboration</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xvnft&label=Profile%20views&color=0e75b6&style=flat" alt="0xvnft" />
 </p>
 
-<!-- GitHub Profile Trophy -->
 ---
 
 ## 🏆 GitHub Trophies
@@ -20,9 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=0xvnft&theme=onedark&no-frame=true#gh-dark-mode-only" alt="0xvnft trophies dark"/>
 </p>
 
-
 ---
-
 <!-- Twitter Badge -->
 <p align="center">
   <a href="https://twitter.com/0xvnft" target="blank">
@@ -51,12 +48,12 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://dev.to/0xvnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0xvnft" height="30" width="40" /></a>
-  <a href="https://twitter.com/0xvnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xvnft" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12280406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12280406" height="30" width="40" /></a>
-  <a href="https://instagram.com/baked.thoughts_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baked.thoughts_" height="30" width="40" /></a>
-  <a href="https://medium.com/@kanekiken101017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanekiken101017" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/ucukwwrebjb92qtnrjiwou2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://dev.to/0xvnft"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/0xvnft"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/12280406"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/baked.thoughts_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@kanekiken101017"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/ucukwwrebjb92qtnrjiwou2w"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -79,7 +76,7 @@
   <!-- Light mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true#gh-light-mode-only" alt="langs light"/>
   <img src="https://github-readme-stats.vercel.app/api?username=0xvnft&show_icons=true&locale=en#gh-light-mode-only" alt="stats light"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft&#gh-light-mode-only" alt="streak light"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft#gh-light-mode-only" alt="streak light"/>
 
   <!-- Dark mode -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xvnft&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical#gh-dark-mode-only" alt="langs dark"/>
@@ -111,5 +108,3 @@
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
-
-
