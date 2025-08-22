@@ -101,9 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xvnft&theme=radical#gh-dark-mode-only" alt="streak dark"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xvnft&theme=radical&utcOffset=8" alt="Commit Stats"/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xvnft&theme=radical" alt="Visitor Map"/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xvnft&theme=radical" alt="Repos per language"/>
 
 </div>
