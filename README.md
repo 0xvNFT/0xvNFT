@@ -55,7 +55,7 @@
 - 🤝 Looking to **collaborate with fellow developers** on meaningful projects
 - 👨‍💻 Explore my work: [My Portfolio](https://0xvnft.github.io/)
 - 📝 Active contributor on [Stack Overflow](https://stackoverflow.com/users/12280406/solitude)
-- 💬 Ask me about **Java**, **JavaScript**, **Android**, or **Web Development (API)**
+- 💬 Ask me about **Java**, **JavaScript**, **Typescript**, and **Web Development (API)**
 - 📫 Reach me at **0xvNFT@gmail.com**
 - 📄 Check my profile here: [Solitude](https://stackoverflow.com/users/12280406/solitude)
 - 🔖 Previous GitHub profile: [Jeiseun1017](https://github.com/jeiseun1017)
