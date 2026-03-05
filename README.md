@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hello, I'm v.</h1>
-<h3 align="center">🚀 Passionate Backend Developer | 💡 Tech Explorer | 🤝 Open for Collaboration</h3>
+<h1 align="center"> Hello, I'm v.</h1>
+<h3 align="center"> Software Engineer | Tech Explorer | Open for Collaboration</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xvnft&label=Profile%20views&color=0e75b6&style=flat" alt="0xvnft" />
