@@ -83,10 +83,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="./images/stats.svg" alt="GitHub Metrics"/>
-</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xvnft&theme=radical" alt="Profile Details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xvnft&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xvnft&theme=radical" alt="Most Commit Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xvnft&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xvnft&theme=radical&utcOffset=8" alt="Productive Time"/>
+</p>
 
 ---
 
@@ -97,12 +105,7 @@
 
 ---
 
-## 📈 Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xvnft&theme=radical&utcOffset=8" alt="Commit Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xvnft&theme=radical" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xvnft&theme=radical" alt="Repos per language"/>
-</p>
+## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xvnft&theme=github-compact" alt="Activity Graph"/>
 </p>
@@ -142,3 +145,5 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
