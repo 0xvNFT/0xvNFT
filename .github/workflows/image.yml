@@ -1,0 +1,45 @@
+name: Update README images
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=0xvnft&show_icons=true&count_private=true&theme=radical
+          path: images/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=0xvnft&show_icons=true&count_private=true&layout=compact&theme=radical
+          path: images/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: 0xvnft
+          token: ${{ secrets.GITHUB_TOKEN }}
+          file: images/trophy.svg
+          theme: onedark
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add images/*.svg
+          git commit -m "Update README images" || exit 0
+          git push
