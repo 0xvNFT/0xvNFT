@@ -83,15 +83,10 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="./images/stats.svg" alt="GitHub Metrics"/>
+</p>
 
-<!-- GitHub Actions auto-generates these SVGs daily into /images folder -->
-<div align="center">
-  <img src="./images/top-langs.svg" alt="Top Languages"/>
-  <br/>
-  <img src="./images/stats.svg" alt="GitHub Stats"/>
-  <br/>
-  <img src="./images/trophy.svg" alt="GitHub Trophies (Actions)"/>
-</div>
 
 ---
 

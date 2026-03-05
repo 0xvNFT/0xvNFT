@@ -1,4 +1,4 @@
-name: Update README images
+name: Update README Stats
 
 on:
   schedule:
@@ -8,38 +8,31 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate GitHub Stats Cards
+        uses: lowlighter/metrics@latest
         with:
-          card: stats
-          options: username=0xvnft&show_icons=true&count_private=true&theme=radical
-          path: images/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: 0xvnft
+          filename: images/stats.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_streak: yes
+          config_theme: dark
+          config_output: svg
 
-      - name: Generate top langs card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=0xvnft&show_icons=true&count_private=true&layout=compact&theme=radical
-          path: images/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: 0xvnft
-          token: ${{ secrets.GITHUB_TOKEN }}
-          file: images/trophy.svg
-          theme: onedark
-
-      - name: Commit cards
+      - name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add images/*.svg
-          git commit -m "Update README images" || exit 0
+          git add images/stats.svg
+          git commit -m "chore: update stats" || exit 0
           git push
