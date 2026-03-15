@@ -48,6 +48,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xvNFT/0xvNFT/main/github-metrics.svg" alt="Metrics"/>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 - 🔭 Currently working on **C#(.NET), PHP, Java, and Client-based Systems (Private Projects)**
 - 🌱 Deepening my knowledge in **C#, PHP, Full-Stack Development, Modern Web Practices, API, DevOps, and AI Tools**
