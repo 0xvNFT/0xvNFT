@@ -48,39 +48,34 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/0xvNFT/0xvNFT/main/github-metrics.svg" alt="Metrics"/>
-</p>
+</p> -->
 
 ---
 
-## 📊 Detailed Metrics
-
-### 🈷️ Languages
-<p align="center">
-  <img src="./metrics.languages.svg" alt="Languages"/>
-</p>
-
-### 💡 Coding Habits
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Coding Habits"/>
-</p>
-
-### 🏅 Notable Contributions
-<p align="center">
-  <img src="./metrics.notable.svg" alt="Notable Contributions"/>
-</p>
-
-### 🗼 Hacker News Feed
-<p align="center">
-  <img src="./metrics.rss.svg" alt="RSS Feed"/>
-</p>
-
-### 🎼 Recently Played
-<p align="center">
-  <img src="./metrics.music.svg" alt="Music"/>
-</p>
-
+<table>
+  <tr>
+    <td>
+      <h3>🈷️ Languages</h3>
+      <img src="./metrics.languages.svg" alt="Languages"/>
+    </td>
+    <td>
+      <h3>💡 Coding Habits</h3>
+      <img src="./metrics.habits.svg" alt="Coding Habits"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🗼 Hacker News Feed</h3>
+      <img src="./metrics.rss.svg" alt="RSS Feed"/>
+    </td>
+    <td>
+      <h3>🎼 Recently Played</h3>
+      <img src="./metrics.music.svg" alt="Music"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
