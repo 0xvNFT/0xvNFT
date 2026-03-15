@@ -58,25 +58,27 @@
 <table>
   <tr>
     <td>
-      <h3>🈷️ Languages</h3>
       <img src="./metrics.languages.svg" alt="Languages"/>
     </td>
     <td>
-      <h3>💡 Coding Habits</h3>
-      <img src="./metrics.habits.svg" alt="Coding Habits"/>
+      <img src="./metrics.steam.svg" alt="Steam"/>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🗼 Hacker News Feed</h3>
       <img src="./metrics.rss.svg" alt="RSS Feed"/>
     </td>
     <td>
-      <h3>🎼 Recently Played</h3>
       <img src="./metrics.music.svg" alt="Music"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./metrics.habits.svg" alt="Coding Habits"/>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
