@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td>
-      <img src="./metrics.languages.svg" alt="Languages"/>
+      <img src="./metrics.music.svg" alt="Music"/>
     </td>
     <td>
       <img src="./metrics.steam.svg" alt="Steam"/>
@@ -69,14 +69,14 @@
       <img src="./metrics.rss.svg" alt="RSS Feed"/>
     </td>
     <td>
-      <img src="./metrics.music.svg" alt="Music"/>
+      <img src="./metrics.languages.svg" alt="Languages"/>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" align="center">
       <img src="./metrics.habits.svg" alt="Coding Habits"/>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
