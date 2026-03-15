@@ -54,6 +54,36 @@
 
 ---
 
+## 📊 Detailed Metrics
+
+### 🈷️ Languages
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Languages"/>
+</p>
+
+### 💡 Coding Habits
+<p align="center">
+  <img src="./metrics.habits.svg" alt="Coding Habits"/>
+</p>
+
+### 🏅 Notable Contributions
+<p align="center">
+  <img src="./metrics.notable.svg" alt="Notable Contributions"/>
+</p>
+
+### 🗼 Hacker News Feed
+<p align="center">
+  <img src="./metrics.rss.svg" alt="RSS Feed"/>
+</p>
+
+### 🎼 Recently Played
+<p align="center">
+  <img src="./metrics.music.svg" alt="Music"/>
+</p>
+
+
+---
+
 ## 👨‍💻 About Me
 - 🔭 Currently working on **C#(.NET), PHP, Java, and Client-based Systems (Private Projects)**
 - 🌱 Deepening my knowledge in **C#, PHP, Full-Stack Development, Modern Web Practices, API, DevOps, and AI Tools**
