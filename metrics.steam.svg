@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            331 games
+                            332 games
                         </div>
                     </section>
                     <section>
@@ -52,6 +52,81 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcDBAUIAAL/xAAtEAACAgIBAgUDAwUBAAAAAAABAgMEABEFEiEGEyIxQQcyURRhcRUjJVKBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIA/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8AVMTR+Z76H5y3HMmi3nKGHsCM3o6EbR9OkLDue2eaCojrYaEGOP7sszCP3rMS1dSnVE9wdS/gdsqU/qDVpWUSKBxCffZyLxdyK2rXqh8mPWlUj3wDsRlZHYlSx+1QMVVYVKNQ/V55LVKvNGQ0Mp11D4ynennlcOwDhfs0MTdLlbi0TQjlMcXupP5OO36UcZyfL8e1S9CQka9YmI+MZN6JvmQU+RkhAQxnsd7zQkvzWUVAvoHf2y1ygr052qRxh2U+psteLYanAU4YlI/UyRiTX8jNv6K84YMFC3Gg667lV7kjPqzwVqRQ1avIQe5HwcPaHK046UsLtG8jDthVx1eRuJimCx6c6HbC0FTjOdPFXHPyFxhLxsyp5YQONAAj3xd8nRarcjMDK0cbe576P751R408EXrHFy36M6CeIFzX13Izmjl6k0t6aCjVmdgT5o37H5yfpJbNYgYtlZJ2MWwR3P8AOPD6KeMfKY0bDlR062xxKzxyQyuJ4/LYDWjktHkJK0zEMYjoeodsXHwFvRvczyccHLWJWczo0h6kQ99by74x5ufmFhtRKrExLFvX2gDtglwEvFc3yMVdrYrzOoBZzsbzW5gPXjanWUhE+fz+4yhUJ86Cs/NWbF1pDI6lgAAp1jT+l/i2xxt2OrceSSF/922BiXSE/qom3vZ0BhVw39SkicxREsv2nWCKBSOi7vjWvFNIyMCdd1PfYxb+IeS47k+aluwQRwRKn9xEABY4F+byTJ0SBiSdeZ8D9spnlp687wTRHzCNBtdjm6YEmL/k5jYu3Jj3KyN0r+2+2R0+NaaGRpNiRh2ByGyfLvTlD1MznY/7m3FbM9atIV6W6un/AMyOq+lUTpjVfMqyej0vGd7+cOeW5KXkOChswdQkiHqIPvrBnm41/W9Y9IKDt+ct8ZyXk8TJWkXStvvm4oNzhn1LnkSKJlYgHGH4a5Cs0kcq9YC+46sX9SoWYEkPs6w44isK8aK4C9WMhEtMMZLadKAKvSTv2wd8TRi/zNZE6UHyQNfGWbEjCt0/I9sFeYsSiwjI5DjGUjKYIz0v8o4X4kI3/wBzSqVijoEGyD7ZNyk9dLEJh0WP3fzlmjZi9BXu+8jtFvF6UpYVZ3VvuP5yjM4goyxsASfbN2xCk8nW3pGYvLqiMFhPVvOhB6s//9k=" alt="" />
+                            <div class="about">
+                                <div class="name">The Last of Us™ Part II Remastered</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        52 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 19 Mar 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            16 / 45 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYAAwUH/8QAKRAAAgEEAQMDBAMBAAAAAAAAAQIDBAUGEQAHEiETMXEUFSJhI0FRMv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBCz/Msvj6jZFQ27Ir4qLdJ4YKeCrk0P5SFRVB+AAOSOo6rNLKn3DJ++F/SkVq5gUcAEqQX8HyOVXGuS29fbjWyBytPfah9INtsO+tfveuN+QVV0sU+J41ilHQid7JFXT1X29ampd3V5Je46JI/Wt715HAVoK7qlUF1guOTSNGdMFrmJBI2Brv8+CDyzAMzyybqHj1FX5DenR7nBDNBNVyEEeoAyspPyCDzWx27XU3TL6C42i2LR/aJquelS2imZSI1VZolYdyuCQSN6OiffR5h0KRxdfbakMZjjW+UwCEEEfknvvgD3WGOo693SGen+qikvdSrQaB9QFn8efHOg29rvab3iuWYpLZqqeWzQ0DUVfX9pEhX8gi93hVABJ2ANNsA8ReoGF5dL1GyKut+O3x0a6TzQzw0khBHqEqysB8EEcMrZ+rVXDSxtasgjaCMo0kdtYPMe4nukYqe5v63/g4DDktZdK3JL3k+T3+y2Wpa1yW5KW11JqGnfsIEJXTeD3ed/r29+JNhjuEXXCzxXqSOS5JeqZah4/8AkuHTetAfHt/XNa3S9WKClrIIbTfz9SB/I1uYvEe7uLRt2/ix9if8PBsAw3LYeomO1twx29oi3OCaeeakkAA9QFmZiPkkngf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Safecracker</div>
+                                                <div class="unlocked">26 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Unlock every safe</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgADBAEH/8QAKBAAAQMDAwQBBQEAAAAAAAAAAQIDBAUGEQAHEhMhMUFRCBQVImFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APP9xb3uqHuBcseNc1ZYjM1KQ222ia4lKEhwgAAHAA12wqxfN414UyDd9bQ70VvZEp1wkJxkABXc99a44pivqKqQrrsdmm/mJnWcf48EjLmCeXbzjGfeNK6nNJ3djP7XTYLjyaY439w41zBSOIUeKU5KvjtoBV8V29LTuKRSZN31t1bISeZmOIPceCORwfPs6s27vi6Zl/W3HlXJWHmHqlHbcbcmOKStJcAIIJ7gjTa1DFjbo3CdzqnDakIhNKTJUkJK1c84SlYJCsEggDOBoNDdhPb+Ut2lqbVCcrcdxooAAKS4k57f7oLW6fBqv1FVKDV+h9g9WZiXevjgBlwgqyQMAgaWVJabY3biPbbN0qW6mmutqcJS0z4SFL/XtkZHzn+6FbjWPdUzcC5ZMW2qy9HeqUhbbjcJxSVpLhIUCB3BHvWnbSn3rY11N1tmyq1McQw6yGlxHUj9wBknifGPGgY2vTmri3Qr7m5K6WxJagNPdZ3gtsnn5SFADJBx49eNCYrMFjf2lN0oNCD+ajqZ6QwkpLiSCB6B+NS/aRe943I/WZdnVph95ICkoguYyM+O391Nu7JuqJf9tSJVtVlmO1Uo7jjrkNxKUJDgJJJHYAe9B//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Journeyman</div>
+                                                <div class="unlocked">26 Jul 2025</div>
+                                            </div>
+                                            <div class="description">Find all training manuals</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcBAwT/xAAuEAABBAEDAwEFCQAAAAAAAAABAgMEBQYABxESITFRIiZBgdETFyMnYXGDlLP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AB57mGYJ3HyGBW5DeBItH2WI7EtzsPtCEoSkH5ADR059mKFlLmU3iVAlJSqc4CCPh51u5Eh2Nuhk0iM4408zbSFoW2opUlQdUQQR3B51YokZ7HZUtxx9lmzQIrlxcitakylyX2S4GGErPHURwSenuT6+QmtVkeb2dTJmRsttytqQzFajCc6p6S64TwltIPcgDk+nI178DzHLV7i4/Assgu1A2jDD8d6W4QfxQFJUkn9wQdOXokq/lJWmYo2ryJiau3ZabadTLYbCltLSjgIUUAjlI5HT2JPiP7aKK9ysVUoklVrGUSTye7qfOg4bogncnLBzxzaSf9FasVDbxs3guPx241jJnMxk21OucmHKblR09DcuK4r2VApABT+mgG42D5XM3AyWTFxq5ejvWUhbbrcNxSVpLhIIIHcEfHR77vswPHurefOA59NBYr23jYVAbkSGo9dJgsyU1VOmcmbKclSE9DkuU4n2U8JJASPXUg2xH5kYmPPFpF7/yJ1icAzAc+6t5/Qc+mke3eEZVEz/GpErGrlmO1ZR3HHXIbiUoSHASSSOwA0H/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Put My Name Up</div>
+                                                <div class="unlocked">26 Jul 2025</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+13 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcABQIDBAEI/8QAMhAAAQMDAwIEAwcFAAAAAAAAAQIDBAAFEQYSIQcxCBMiQUJRYRQVMlJxgZEWQ5Khsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD5W7cGoMYNTkgmrbTNvTcdQQoR7Oqx/qg4ocVb5WU+kNjcon2FaT6SpKVAhXBo7j2tcTTE+UGi4ue8uEyEj4kGqOTovUMRhpx+2PIadOEqIoB8n07CRgc1vfiKbZbexuac4SR86uYejr/LW43FtzrvljcohPYVcsWeQ9o6aw80WZdoJkuBQ+EnAoAU/h+orw8cCrvV9tTa7m2yP7kdt3/IZqlxuyR7CggyBkcA8c0a9H4SpWuYCkqThpW5WRnPFBg98kFP/aYPQ5q8u63jf05HS5OQQUuLTuba+qx7iga2kIs5rT6rHcICWEJuDz7bTqQXJAUeyFexpidMLjbzekwp/lyXFq8tpKxuCSPhwfcUHXaYi46jXpKyzUSHnjuvN0TyiMk8nZ7oIPHFdvh81BFu/VfULQQgtxoqIzCsDClIVgrH1OO9Ab9W59tgSUQ4yWYcsAKW4lO0JSexOO9K7UzU1rSd7t9tgofeuUdKDGSkedjOd+78p9hRh4qL+xp5/SkwMocdblqU6MD1p29lfMUJtT41iukS0XqXu0/dQl+FdEnHkvL9SkKV3KR2xQKHrRbHIV0ty3gEK+xtNlGOUkJ5Bpd4PPPYU3vEXHvjN+jLvyG3QW0pjy2U7W3WwPTx88dzSiP4U4IH0oMUnnd8vamp4c7oYOuFRkqKVzUeUkg4OeTSp5xRBoO8JsGsLXdFcIju7j/BFA4dLvGD016guw2lfeLjjyHnviSgL45oC6E6qRpfqJbpUx8MwXHAJC1flos07mNF6i2pbh3XGCJLHPcrVmkm4hSMoVgbSR+9A4/E7rWFqzWiE2eWiXbWWkFC0HjfjmuuK/8AbfDk21ch5xYlOKiq+NKsjjNI9IOD2x7/AEpwPtqc6RaU08lW2VLubq147hJ5FBt8QF0W7A05a3lKLseK076jk4KKTSlZIP7UX9U72m+6oDrRymNHbi/ugYNB3tig8qVKlAb6S1MlrU9rlz1EtpIbfyeCgDABof1Gwti+TNycIccU6kD8ijkVVgcDHc11z5a5qkOOZK0pCT+goNcSO5LkNMMJO5xWE/U0b601Gym/x1W4+iJGbQgA8B0DCqCoMkxZCZCMhSPwH5GtDii444tWcqJV/NBi84p15xxR9S1FR/U1hUqUH//Z" alt="" />
                             <div class="about">
                                 <div class="name">Marvel's Spider-Man 2</div>
@@ -68,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        88 hours played
+                                        91 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 43 achievements unlocked
+                                            8 / 43 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwj/xAAxEAABAwMDAQUFCQAAAAAAAAABAgMEBQYRABIhMQcUQWFxEyIzUYEIFRYjJDJScpH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAEgMRBCETcYGR/9oADAMBAAIRAxEAPwDnCy7dlXXc0GjwiErkLwt1X7WmxytavJKQT9NX1Rj9nFOqjqYFOrcyO3uaSuQ+2UO4PxAAAU5x0z46BtOQbYtqqstRz98VRtLCpIV8GOeVNpHXco4yfkMad9jtEdrF/wBPZLPtIsYqlSgWg4C2gZUNpBByPd9TqgxWGmmscd00W6MFl0Oz35AZlUiu0mRJZAjLcWlDKSrlLhBBUoHI6HGNZXUoT1Onvw5Sdj7KyhY8xrqL7SFWpTkS3qLS482MqPFRIbi8IaYQrICVNkZC8D59PA51hF1RzVozM1KCJbLWx5RPxUp6H1A48+NBxaAqI347MLL9jvs1ixbso1Yo7hX+I47Peqcd3EhtAy4zj+W33knrwRqt7Er7jWBNrVSnxBIbcjJZCUqCXFL38BJPgeSf66xGiVSXRKvDqdNdUzMiOpeaWPBQOf8ANWL940Sp1WTKqNB7sl5SnCmK6VYWTnABIAT10vJUG3cmuZmFGO/cMu+4JN33VPrT4/OmvZDaTu9mnolI9AAPodJb4ebpq2aTFUe8Nt/rFA5G887B6Dr5+mijd9IgTA9R6MVKSjLbkhwgoc5wdoJBA4Ooh91x95x55ZW64oqUo9STyToOSw6ibMwFAfyf/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Medicine</div>
+                                                <div class="unlocked">18 Mar 2026</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -109,18 +194,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQII/8QAKhAAAQMCBAYBBQEAAAAAAAAAAQIDBAURABIhMQYTFCJBUXEVIzJhgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwIE/8QAIBEAAQMEAwEBAAAAAAAAAAAAAwABAgQSEyERQVFh8P/aAAwDAQACEQMRAD8A5bixXpSyllBIG6joB8nDBSKbBZfb6oqkuFQAQgaE+gPOMUmlSE0l2pJU10vM6cpLgzZ8ub8N7WG+KxwLwRNekRWeVCjTYj7U9M5D6XVlBynlkJJ+RoNb33xIlWEEMk9/F0Qo5le3nhvVJarTYLzyzEUY6wTdCxoD6PrAGVGeiryvIKT4Pg/B84tfG3BL8Z6qqcaZdnpWue5MVLS2FNG5yJbJuo3Op/Vhib1enyVURmaos9GHyykBYz58oUe3fLbz7wwqQmhkg6JUkxPa+/qEUp9HOKXXA2CkgE+8VDgqufRHqYmE2KfJW+EzKgfuhbBUO0JtoBY3tvpiO4LUWuyqWsBOV5i+rTm389YtjCaGIza/ddqDnOJ7xbfx088WVR6slRlNh+U064DUFKILjV+1JG2ng72NvGEeqvxyhPJc5joOVRtpa2NKxWpVUcPMIbZv2tN6JH+4F41KIoRxibTIiUxHvK+36X//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Splat</div>
-                                                <div class="unlocked">17 Mar 2026</div>
-                                            </div>
-                                            <div class="description">Attempt and fail a trick before "landing" on the ground</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -196,81 +271,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+11 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABQYHCAMEAv/EAC4QAAIBBAECBQMDBQEAAAAAAAECAwAEBRESBiETIjFBYQcVURQygSMlM0KR4f/EABkBAQEBAQEBAAAAAAAAAAAAAAUEAwACAf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMREgQTITEF/9oADAMBAAIRAxEAPwCeZCQaMFr5r+XtGPYGheTzCiSC2ZCtrbeZyfXn/tS7Dnv7kJroO7EABkOuNdc/Klxd+LDbyQI6gMHO/wCadtbaHqmIwWfUIueXhoTFD5ifivqbqW1iAWPZcn0oNg8la4+wuopYwWlTiDXhnubJZSwUFgN1E9oHk2WgmPWNzOMFgTxZSDyJLe9GfDUwq0bAxMOX/akN1kWljMaKFR+3YVZ+j8Hk7noqLK+A8lsCU3r8VvxbwJnbToPYLniHt6UOnXVHbiI69NfH4oVcpr1qlh2GSoMGIXR2AOZztvbsw8Ll5qpvWXRb31lcZKwZAlnEFKa9ddqD/Q+FZcrcTyIecaghatthZ2crXFvOxRLkcSm681JsuZvY+GxM5Y/ofKZLBfdYUIt1chwRv0r56d6Ju8xlkgt9+GD5yRWkOgrNMFc3mNaSJ7bZcRuN+ppvgxtnC7yxWkaO/pwUChOT4+I1x1BTMykfptkLTqCO1nXnAz+bQ9BWpMfJbYvp6yxGEeFJAg8sg5AnXftQuWwH3mMLppXOmB76FCuprG5g8SdFdWj7oVOu9U8FN/si/SbX5FfrSGD9a5sisNyv70b0Y++hSTcoGYr3JXuxo7nb9bxre/lBNyjcWRe29fmhN5qSQyJpdjbJ8U1rpCtvIO+iQk+8Skf4woLGrBjZQ1zMzEcWJUE+1R/6OyeC2ScHyNGAD/NP0d6AxKN/THz71Kt4RcSg1ljA/UsFzZ9Vm8xt8yBQC6uSQo/JqgYfrDjDHBl9qpA4zg6WlGa4iuXEg4pI3l4sN86WcxFe43JQSwSiawmbjJEe5i+T8UQ69r5iVVnUvs0f0TjbN5Jsl44l5jy7O69HV0VtcR8VIYAbIWpH0b1bLjrqG0adDC5p4yOcjsLOR0lSWWUEKNbqvjVFGknKtDiSO+jx6m6R2IjLsN77jvQGVJURyRwUDylvce1GL+KK7u2ORH6aBnLEntuh5jmlt4ZZzytHkMasPcCl3sAWHopJk/wmdTEwlArKG9e9NNlnrWZA7T8d+26mHIumpWBrtG6RsobkR8GgrCTFPhlRGfheVI4p0Z9+TX5rvkb+C+shb3cmgx1tTo7qUQ3slrcJJCN8Ttd16IcxdLcLIJEZQ3LWvevtY19nWDYSudI4y5zWctYLaJorWQiL9Q57DVWu76NW0t5Vt5PGQoFCFtsze+j7Vjy5zd4JxPb3M8ZPYJE5UKfzRK26zzAjQPk7kd9EGQ7A/NbduDJ2qzNUXH0+S7Lvcuis8YXzHsn/ALUm+r+Fi6Lkhto7nxZJdaKt5V+dVOX6vyTAx/cbwRt+7cx3Qu/zc+RlByM0s4XsObbOq9PaSJy14n//2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">Stellar Blade™</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Adventure, RPG
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        37 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 15 Mar 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            5 / 45 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAsEAABAwMCBQIGAwAAAAAAAAABAgMEBQYRACEHEhMxQRQiMkJRYXGhUoHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMPEuk0K1bdfVblKqcqay+4+7MXI5gUvqQkAIdSAOVI8edMbeROuhDrlv8MqTObaJCzHTLUAcZxnr98f5pDdaQLMskpxkw5JP59W7reuDz0q3eDYmriyYFRiSXn22lo9lRYcCQQsD3AezAOPAxkHQYZUqo3SJS49UsKkRXjv03xMQQPtl7tolibSa3aFzLVblJgS4Udl6M/FL4WFKkNoUDzOKBHKpXjVlHk2PJdqya5JnN0uSyVxqWsFbsNw7lTKsY77bHcfENRFFaYj2/f7MJ1T8UQ2Ok6pPKVo9YzgkeDg6DnXi2i2LCU+SGhHfUvAzhPrHM/rVnd90y2kVqYa61PelT0JgnnUr00dOFn2nuCC0Dn+B8nSugzbKm2zbrdyyA6/T2HmXIqn3mPifW4CChhYOyh8w+411uCmcNZdvNJotyzGKog4bRO51tIQTkglEcKJ+mgkhHozrU52rVGWipBovRyloOMvr+VJ3yNsg57Y0dRRNNs309UkPJkSIEdzmdQUlWZjO4z4/G2hY1HozUCcyu56Itx3l6bnRlZSQrJ7s9iM/r+2BRTqXbNzF66KdVZs+Kyww2wJBcJTIbWclxtIACUHzoP/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Gigas</div>
-                                                <div class="unlocked">15 Mar 2026</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwEDBAb/xAAvEAABAwMDAgQDCQAAAAAAAAABAgMEBQYRABIhE0EUIiMxBxUyCBZRYXF0hKS0/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AA8S6TQrVt19VuUqpyprL7j7sxcjcCl9SEgBDqQBtSO3fVDFxxJrpRFsSgOLCSopb8WcDuT6/t+eqbqSkWZZJGPNDkk/r4t3S/8ADi3oFAtO7oPzqBWEOwVOVEMQurHaUllbjTaHl43uKI3YAKRsHOQNAQyK9EhulEqyKI2pY3hLhljg9x63trexNpNbtC5lqtykwJcKOy9Gfil8LClSG0KB3OKBG1Su2k+/7chV+zbSgCswKO2xDbXC60LpR3HXGEOutuOozsXzu5G07jznOiG0uLQvhPBHgI/P8xnQRdYxZdk/s5J/tu6SPs1Ips6PX6XLfSX5QQp6O48UboyPrU3gZLgCjjB4GdcFJ+UVq0bbjuV+FAlU6O+y6zIZfKiVPrcSQUNqGMKHf31mpVMi02UxOp970qLMb8yFpalpUg4weQz+BI0CJ8fo8Ol2nbNLE3fKZKnI7XV3LVGIKQtwAfV5EAHjI9hwdHVokfc++B3MCP8A7GdTVYLFWlrl1K96XKkYCN7jcskpSAAB6PAA4GtjMWk0O1blQLjpVRlTozLDDMREjfuEhtZJ3tJAG1J76D//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Nano Suit Collector</div>
-                                                <div class="unlocked">1 Sept 2025</div>
-                                            </div>
-                                            <div class="description">Acquired 30 Nano Suits.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYB/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDBAUGEQASByExQRMUIjJRFiNhpDNEU//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBHiXSaFatuvqtylVOVNZfcfdmLkbgUvqQkAIdSANqR276gRctPfdCE2TboJQpSQkyznAJ/3/GobpSkWbZOMeqHJJx8+bd1rOGqaHSIcedVHGnpJ8RbSCotOpBwhaEkLG7IBAGOqvjqGRNx09tTm+zaB7iMFcrkfgff0SYm0mt2hcy1W5SYEuHHZejPxS+FhSpDaVA7nFAjapXbQa+I7DFRbVGj+UZWgFEf1nw8EggqX7lZBJIyMk46atWiT9H3wO3kI5/bZ0HLqyLMsnn/AE5J/bd1LwrbhzLmECrLipp77Tjjpkp3JHhoK8j4VhJAP50yOG192dSLHpMOuwKFUZsVDqSiosOKW2S8tQCVBlY2kKB69dE6/cfDGoRUS6XJptMq4YcbaS1EebajlaClWdrOXB6icHA7dzoF7xBtultUFio2/ORJiJWstIHI+AF7FLyr1K+5jl2Cweh5ArS5Wfe4IwTAjkZHbzjOmaxVrAdVHNVuVD4jxzFw1BWkOIUnaohBb2oOAjGM+0k5zyrXrM4bQuH9aj2pUnZlbmpbQt+St1broDraiP40oSBtJ7aD/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Corrupter</div>
-                                                <div class="unlocked">21 Jun 2025</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
