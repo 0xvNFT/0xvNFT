@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</div>
-                                <div class="date">9 May 2026</div>
+                                <div class="title">Hardware Attestation as Monopoly Enabler</div>
+                                <div class="date">10 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Internet Archive Switzerland</div>
-                                <div class="date">9 May 2026</div>
+                                <div class="title">Local AI needs to be the norm</div>
+                                <div class="date">10 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rust but Lisp</div>
-                                <div class="date">9 May 2026</div>
+                                <div class="title">Running local models on an M4 with 24GB memory</div>
+                                <div class="date">10 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I’ve banned query strings</div>
-                                <div class="date">9 May 2026</div>
+                                <div class="title">Incident Report: CVE-2024-YIKES</div>
+                                <div class="date">10 May 2026</div>
                             </div>
                         </div>
                     </section>
