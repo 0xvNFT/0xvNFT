@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="655" class="">
     <defs>
         <style/>
     </defs>
@@ -51,6 +51,81 @@
                         Recently played
                     </h2>
                     <div class="medias largeable-flex-wrap">
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcEBQgDAgH/xAAqEAACAQQBAwQDAAIDAAAAAAABAgMABAURIQYSQQcTIjEUUWEjJFJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAHBEAAwADAQEBAAAAAAAAAAAAAAECAxEhMRJB/9oADAMBAAIRAxEAPwDOCoCeKlxIdcCvkSgngVc42zeU8LQWy8ycrS3eQIpQgbqdY5GxF77M4b/FzwaNMN0+WtkluNKv/VCdzgra2tXyCsGMkzR/+GoRYYXR+BgzcZls37lNN3E9OQWPtOe4soHmqL0rs7XF9NwNDGe+Xkk0ZPcJFE8ssirrwTWbd1b0M/h3REi2/aUiHg+alQwHu0x+RG1Pil6nqRatPJFjcdcXsqN2gK2wTumRjmaeGOSRTCroH032pP2KicevSHRijE4mSeUN2/4/NMjprp6GPUsxAjH3uqzHywW57FA7PJrplM/qP8a3bS/sVp6FdkbrDqu/WT8PGJGtqp7S3bzQdZwzOhMuSiSMsWKuCQDUPqFriK7aVGYLrfafNUb3dxNI3dpFA+qPEAqselh6qW2JxKW4QXEqL2q0fA2KE365y3U1zcQPIytJxGiHVLq2dWFyj/LSAoV/dXVr0zmbG5tfy7S4QT6aJ1Ovug5IiA05dmi/RjphMXbSXV/8pm5AP7px2yEhC+gu+BQN0OiYzD20dwS8xQfZ5+qI5ckjuflpkHApCn9eDMz9GSFZ4ovbDE781Ox+MeR1LgkHzXXHY8EDvOzuiuwhMhSGNNtTVvovPgH9cYpLbFwSsu+8ldildLC73PtRHind6oXkUOItrG2USSBiW/hpSLBHDcCWRtSN4piK4Ba6E/p9h7YZh48j29roNbrQEWctMpZQ/jwRN+KPbBKg61xWZmyLwXIkRj3gDWjTM9H87FPeXVrcHShQx3+zS+ZB8WhqWklw7fLgH6/lWaSJB8nbZ/tUd1l7aAEIw/lUt1mHkJKnikHtMeS2hd21yIgrudSb+Q/Qq6uMymMte8H/AGZx2keVHg0GWjvLIZn5EI7mH/IfqoztPdXXuTNvn4/0fqtLJPTOh8JPUN8t1atMSdpyTul7dX25hvZ0d7otzh9rHuoHLUCSnubYH3xRZXCn6dpbx3Kk+DRr6a5dLS+uFbQMyBQaCbqxmto43kGg/wBV5tbh7aZJYyQVO6ipVIvL0Ppr9mPJ2K9pecb3QLis4t3br8vkBzVhHf8AB+VJ3iGpyH//2Q==" alt="" />
+                            <div class="about">
+                                <div class="name">007 First Light</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        12 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 31 May 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            16 / 37 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAgMI/8QALRAAAQQBAwMCAwkAAAAAAAAAAQIDBAURAAYhBxIxIkFRcbETFBUjMjRhYsH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxIREyExIkGB/9oADAMBAAIRAxEAPwANky5rNvKjRpTzEZl1TbbbSylKUg4AwNWalqd03EVUiqjWkthJ7S42SU5+GSedRkOtNlu9UJAWVSZpb/LT3KwV8kD5Z11xEiNV0VqLFSlqMygNNMoGEoSPqT7nWS23bA0Esi5Qb6bbJmzFT3d2sWbKUdqGGnHlN9xIJKuDk441SdyMmm325WQbSTJiNSEJ9bhJSSRlBPvjxnSh1i3rM24YUGmfbbmvBTjyu0KUhHhPB8EnJz/XQNDkLdvYjjy1LdckpUtSjkqJVyT/ADpac3Jduj6hfEeIib0Sjh3qXbSCP2zLxHHupYT9M6a4N1XWU+XDhTWX5MRXY+2g5KD8P848HRbQCv2BT2tsmSqwubMFxuMwgq7TklKOPHKh3E48ca0WfUu3ZpKh2hrmGZTiFibFXDWfsnAfKTwClWSfc/HU7ENjcQqQo5k/1G2PSXF0qztL38OdUylJbJbAKUg+r1EHQ3uVzazO4KeDtcPvuR5SA/NWslLxyP0+3n3AA+esuoe59x7xahNz6cI+69xSpiMsFROM5Jzxx41UqqumRLKLKmRno8ZhxLrjjqClKUg5PJ1WqtlAyPyK7A9Cf//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Always have an exit plan</div>
+                                                <div class="unlocked">31 May 2026</div>
+                                            </div>
+                                            <div class="description">Use a gadget to escape a confrontation</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABQQGAQIDB//EACoQAAICAgEDAgUFAQAAAAAAAAECAwQFEQAGEiExURMUYaGyIkFjcaKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECMSEyQf/aAAwDAQACEQMRAD8A8Ns27sOXtVq1qaCtDK0cccTlVVQdAaHLJ0fbuTdT4mOSeaaM2ULxs+wyg7IIJ0fAPAb6BcvfPvO/5HjXQ5KdRw2z4r0I5Lc7b12oqn7kkAfU8xrqWtNuspZ8Z1LepVL1sxRONF5NHZAJHjx4JI5AxWQutkqiPbsMrSoCDIdEb5N68Uy9SS3lB+XvxR2oG9doyD7ggg/UcFxsmsxRHvOg/wBDieZQemMzIFyt0fzP/wBPGJpDT6GoJXHacpYmezIPVliKhI9+wJLEe+vbguXx+RkzF1ko2mjM7lWETaI7j5HjjGDtZShSelZw4v0Gf4vy9qBiFfWu5GGmUkeDo+eHiCO0Mpt9C347P6jjJ4pKzn1VZSweP+iQG17g8qmLm78/jx+3zEf5DjnUV3L36SUKmFNGgr/E+BVrvpn1ruZjssdemz44JisdcqZKrauVpq9aCRZZJJUKqqg7Pk8T6Gf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>A hard man to kill</div>
+                                                <div class="unlocked">31 May 2026</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAgCBQcD/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDBAUGEQASITETByJhFEGBFTJRcZP/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAERIDMSH/2gAMAwEAAhEDEQA/AMRC6k7cDtOpr8hCBIMdhhlZSn92EpAzjV3XY1dt6oKgVdySxKSlKygvbuD0cgkaEhw5km71tUtlT05U0qZQkdqC8j8cc/GmUvm2YF5UJz6hlKKk2lXhkoACkuAcjP3QTkc/3rlfoEIvyaquosLlUnE4EyR/odE0qoTVVKIhcuQpKnUAguHBGdWloWFXLnYMmCy01FCijzvr2pKh2BwScfA0TXbQftZ6huzp0VyXJl+NUZo7igJUPdn7j8DBONI9EvN/ZMmrnew2BMvmpRpLqmqVteeqJSdu5hs7ikq7AKgkHHfWtC9PPU6RdF4fpjsKPFgOMrMZKSVLCk8+4nvKc8Y1jUiTX4j9bhwI8luJOeUHlNse5xAJ9u/Gdpz0Dg6Dp0WrQn25EWPOYfbOUONoUlST8EaL8w4Nyq2Y0duKh0KjQaPJkQ486O0PIwHkggqJVnB55zpcrvcpx9Q0pgsyI0hNRUmQyshTaVeTgoPfPZB6J40BXptfqUWnsyIUl5yDuDT6mVKcIKt2FKPYB6/jJ1CbMq9Vr8OrV2GmOWChT8n6fwhYSQdyz0VY40OfEo2r9iZ9Cp//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Trigger Mortis</div>
+                                                <div class="unlocked">31 May 2026</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+13 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
@@ -121,81 +196,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+6 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcEBQgDAgH/xAAqEAACAQQBAwQDAAIDAAAAAAABAgMABAURIQYSQQcTIjEUUWEjJFJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAHBEAAwADAQEBAAAAAAAAAAAAAAECAxEhMRJB/9oADAMBAAIRAxEAPwDOCoCeKlxIdcCvkSgngVc42zeU8LQWy8ycrS3eQIpQgbqdY5GxF77M4b/FzwaNMN0+WtkluNKv/VCdzgra2tXyCsGMkzR/+GoRYYXR+BgzcZls37lNN3E9OQWPtOe4soHmqL0rs7XF9NwNDGe+Xkk0ZPcJFE8ssirrwTWbd1b0M/h3REi2/aUiHg+alQwHu0x+RG1Pil6nqRatPJFjcdcXsqN2gK2wTumRjmaeGOSRTCroH032pP2KicevSHRijE4mSeUN2/4/NMjprp6GPUsxAjH3uqzHywW57FA7PJrplM/qP8a3bS/sVp6FdkbrDqu/WT8PGJGtqp7S3bzQdZwzOhMuSiSMsWKuCQDUPqFriK7aVGYLrfafNUb3dxNI3dpFA+qPEAqselh6qW2JxKW4QXEqL2q0fA2KE365y3U1zcQPIytJxGiHVLq2dWFyj/LSAoV/dXVr0zmbG5tfy7S4QT6aJ1Ovug5IiA05dmi/RjphMXbSXV/8pm5AP7px2yEhC+gu+BQN0OiYzD20dwS8xQfZ5+qI5ckjuflpkHApCn9eDMz9GSFZ4ovbDE781Ox+MeR1LgkHzXXHY8EDvOzuiuwhMhSGNNtTVvovPgH9cYpLbFwSsu+8ldildLC73PtRHind6oXkUOItrG2USSBiW/hpSLBHDcCWRtSN4piK4Ba6E/p9h7YZh48j29roNbrQEWctMpZQ/jwRN+KPbBKg61xWZmyLwXIkRj3gDWjTM9H87FPeXVrcHShQx3+zS+ZB8WhqWklw7fLgH6/lWaSJB8nbZ/tUd1l7aAEIw/lUt1mHkJKnikHtMeS2hd21yIgrudSb+Q/Qq6uMymMte8H/AGZx2keVHg0GWjvLIZn5EI7mH/IfqoztPdXXuTNvn4/0fqtLJPTOh8JPUN8t1atMSdpyTul7dX25hvZ0d7otzh9rHuoHLUCSnubYH3xRZXCn6dpbx3Kk+DRr6a5dLS+uFbQMyBQaCbqxmto43kGg/wBV5tbh7aZJYyQVO6ipVIvL0Ppr9mPJ2K9pecb3QLis4t3br8vkBzVhHf8AB+VJ3iGpyH//2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">007 First Light</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Adventure
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        11 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 29 May 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            13 / 37 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwUIAQMEBv/EACoQAAIBAwQBBAIBBQAAAAAAAAECAwQFEQAGEiEHEzFBURRhcSIyM8HR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEA//EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRMRIh/9oADAMBAAIRAxEAPwAat9JfLpuWotVh/LcxyOsVNTPxCopx7ZAwB7nSdubaA2v48WsvF1qU3G0oCxR1XNGBb+3H6UElvvWfAfFPIm4FIHJ4ZCMgfEo/7r03m+tsz1FvtV7oZw1RGWprlAAWp35hSCpxyXGCRn+NRO59hRNgBmwbo6TcdyttXcKBa6aipP8ANKrnC9ZPz3gdnHtrktVwrWuVIr1lQytKgIMhIIzqwGxNjTWLadzs9yrFnFcz5MIIEasvHrPyR37aFN07bl2jvSht8k/5EbvFLFLx48lLY7H2CCNOu5XYrBkKgGabLumr2lu+ruFAsbOZHjkSRc8oy4LAfROPfTL5Bawbr8dtuTlj0IvWpKgDEiPyx6Z/luiPvvVe7vb7jJeK1koapozO5VhExBHI9jrSXtqoqX8K7htVRD6dRFKvowmPg8isysxA92PR7/Q07V4wiU9EeoqhJqGCojYMksayKR7EEA/70MearlbZbtY6KaGYXaOqikgl4f0GIthxy+ewOvvvU5tLdjUewKOa/wAk7VKO0IjSHlKEBwg4KM4wPc6gvIaWi+2i335a4QPbpVlVZgULJyHJChGQesg/r96irQpaN5KGbU+T/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Firestarter</div>
-                                                <div class="unlocked">29 May 2026</div>
-                                            </div>
-                                            <div class="description">Push an enemy into a fire extinguisher</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKxAAAgIBBAEBBgcAAAAAAAAAAQIDBAUABhExIRIHEyJBUWEUIzJxkZOx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAQACAQQDAAAAAAAAAAAAAAEAAhEDEiExBBNR/9oADAMBAAIRAxEAPwBGWrd2HL2q9a1NBVhlaOOONyqqoPAHA1ZC5klh94bFz3YPpLlm45+nPXOtJbS2Ftur+FzCYyJr0sKyM8pLj1t8RYK3IB896IM9joslWeCdmas6lHrkgRvz8z8JPP3BGsVvIDjEuaazI0mUvE8C5Y/sOunFZC62SqI9uwytKgIMh4I50U+1jH4+Pd0GN29SRZq9ZY7EVWIgGTvockkKRyf50NXMRkNv7lo08rWavOZo2APkMvq7BHgjVq2LA/YiIxuZn2yUMRiEx2IqT2cjDCITJKAkUbgcE8dtwf250Mbc39vHd+bq4aPLVKDWiVE8dYKy8KT4+540tsvj8jJmLrJRtNGZ3KsIm4I9R8jxqdKjlK0sc0NW5HLGwZHVGDKR0QfrpfVXHHcO5mi62Oxfs+x08tKCxl89LGZZXBBnlBPliT+iPns/7pJbq3ha3JuLD17U0U4rXS4kiX4FLsv5aHtlUDj1HvvrjVHuCXcOWuyWr0WRs2pFCtK8bEkAcAddcfLVdisdcqZKrauVpq9aCRZZJJUKqqg8nydJTRKu6zlhtfJg6n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Short fuse</div>
-                                                <div class="unlocked">29 May 2026</div>
-                                            </div>
-                                            <div class="description">Shoot at an enemy while he's throwing a grenade</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAQT/xAAuEAABBAEDAgMGBwAAAAAAAAABAgMEBREABiESQVFhshMUFTFjcTIzgaKxweH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECESESA//aAAwDAQACEQMRAD8AhsmXNZt5UaNKfYjMuqbbbaWUpSkHAGBpDt9mxtXlI+JOsMtgdbq1qOM/IADknWJPQE288+L6/UdONvQlNbfaUUkl4+06QcZyePl5fzrhTxG10wNwM2tU6jM956O5+W8hagFfcdj5a8dVYTVWURC5chSVOoBBcOCM6X7jaW7tuUh1OC1hwE8EkEdv10DrXAm4gj66B+4akP0ulaxnLlwJtZo+sv1HVM2UffNtwHCn8CVMkg8cE4J7j7/7qY29fYuXE1SIMpTan1lKg0rBHUeRrb21ZX1Iw4yxDfWw5yWnGlEA+I0tep4JeMZ7lQlmlsEuHLfszjPkMjn+9SSrf67+vHb3hv1DSTcdxfWkNcZdU6As8rSyvOOOPDto5VV0yJZRZUyM9HjsOJdccdQUpSkHJ5Onzlyuinp//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Nobody lives forever</div>
-                                                <div class="unlocked">29 May 2026</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
