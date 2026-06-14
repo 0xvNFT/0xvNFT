@@ -52,6 +52,81 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUCAwYBAAj/xAArEAACAQQBAwQABgMAAAAAAAABAgMABBESBSExQRMiUWEGFCMyQnEVUoH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGxEAAwEBAQEBAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/APmXCquBXVQa1JcE9qnEHkfVRQDpFaqu5bUt0x0ozjLQ3d0luqnMhwBTCS0srEKnIB7ksMgwnXH90z/CnGwtzPH3Nm5MZlP6ZOT2rGw6eAPPWC8bx1tazwyGUSFhg0iKjZiTg46L5rW83HNy1/dT35/TgYgKvQ4BoGG04u8YRWaSRXBGMu2RWejIZnwtd1qckZSV0PdWIr2prRiCldtwP+URZSm3n/MAA48GhlfPjpRvG24uZdWPtrNM0ZcrE3KlLuyG5wA8a+PuiOMzxSCb1N7r/RemlUQyWsdwyLLo2NSynAoR2nikkEhyW7L5YfVTodLTSc36c49WKVYXmQDVv5N5pHYWps76Ka4YRxodtz2NNOWgaLh7BoYyzFzgnr4pO4iTJmkZ89lz5o0xJ5lPMTWs1yTaRsuTksT0NCYxjB2PwKJvIhDgxurg9cAdqHGCNh7W+6VMp/AdTjq37j2FPPw/HbtbXiSvrK6YXr2pEAdlD/vHipRlgpkViHzjFVUkMO/x0xlzLGwGcA/NPU41Z4Zbi5OgRAEyfis7HPcTzRpJIfccAA0/5uUI0FrrJrGod8HuDUdMSKmNAYJ5hcLG0usaHJD9QBVU9hK8rNbgyq59hHzRZt47i0mnjVo2Rfdsc9KClvZYrWK19QAod1ZenehVevwZzh3kI/RsIoT0k2Jb5oBm2c/QFduJmmkDsc4qonyPNNK8hMgOpye9dqlXqRer8tsgIhkEbCQ+5mOAB4rbwWtrzlslwLqOCfUIQ31WBU+4CPv4zRtmYvRZnlcOD0CtjrRdubwWaNhyf5XjeLNrHKk8kvtOvcVj7zrq2hVj7cnz/VFie3aUMdlZR3Y52oO/nEswKsCi9gP4n5o+UeSul/Cjp2rmRUdhXthXTmgp6f/Z" alt="" />
+                            <div class="about">
+                                <div class="name">Monster Hunter Wilds</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Adventure, RPG
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        121 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 13 Jun 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            36 / 50 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgAEBQcCAwj/xAAtEAACAQIFAQUJAQAAAAAAAAABAgMEEQAFEiExUQYiM3GRBxMjMkFDYYHRsf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQEAAwABBQAAAAAAAAAAAAABAAIDEQQSEzFB/9oADAMBAAIRAxEAPwDneCAyukcaFnYgAdTh/TZf72nlVBqqdegb91QPmY/5jLLY/uxm8ySIFU8G9x/MTUWX1sktPS5coRJ28dj4jatLHbcb39DbGS9/kvnmJywezegio6dFYtLOxBZhsqDy6n8+mIjMKRqaQxsNwA36Ivg8zHLZYauejr4EeOjckywNaI2bTfexsSRvzviD7URXEbBGDd65YWvxgpp6I+mRwpFl0sULRvIdLJIrXvyvBH659cWP7O80gy3Lwnw0rY5pLvIo4NuDzuMVVDLpKsD3hxtfD6nnjlnUVGhV4DJsV6b348+MR3y8le1lOm1M0U5h52/zSHMMrmugNQ0qLGqqAWFz9QbnAXnKMYwGtdRYkcX5P8xqaop4ah2gBaQbCRm1edunn6YaV1YHQrq26dMJlm0CtY2+hdWf/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Miniature Crown</div>
+                                                <div class="unlocked">13 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Obtained your first miniature crown in the Hunting Log.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQAEBgcCAwj/xAAsEAACAQIFAQcEAwAAAAAAAAABAgMEEQAFEiExUQYTMkFhcZEHIoHRFEOx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADESEx/9oADAMBAAIRAxEAPwDneCAyukcaFnYgAdTh/TZf3tPKqDVU69A3+1QPEx/zGWWx/wBsZvMkiBVPBvcfrBelpaipmakyxo41QgzTOwXUxIBPXz3tuBfpjI75H11gjTAOb0EVHTorFpZ2ILMNlQe3U+vxgRmFI1NIY2G4Ab8EXxNsxpTBLDT5lHF3RYmN4ZLo1iV3HIuR52vgT2oiuI2CNq3uWFr8YldnkN6hhIiy6WKFo3kOlkkVr32K8Efjn5xcH0pNBQdl83Es9LNVSoe+DxajTeO25G5I3sPTfFIwy6SrA/cONr4f01UskyrOwROLoSpHTz49+MKvQuuA5LpcDhlifUato8wyGjQGGOeFAIFVLfyPCDuBza1gfXECzlGMYDWuosSOL8n9Y1tVQRTuYSzOuwkZ9VutvIe/xhnXVgdCurbp0wCKy4sZc6tucn//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Newly Forged Bonds</div>
+                                                <div class="unlocked">13 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Followed someone for the first time.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYI/8QALhAAAgECBQIDBwUAAAAAAAAAAQIDBBEABRIhMQZRE0FxFCQyYYGhwRVSkbHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAxJC/9oADAMBAAIRAxEAPwDnenp2mkSOJC0jkKoHmTgrRZQ1RTSpGparEugAfCir8TMe3kPtfE5PER7xCQaiKWMIh4bUSP8AMMRoJ67pKLLulaSjjWmqB7dWmT3qqndtIAHkt9tj8hbz5yt6zC2z7K6fLaRUfxZqokF3sVSMc2ta9z8yDtxgPneWS5XWyUswGtADccG4B/OGDmdNNStTU+e0HhRI4eIrdUv+1geAbfW2AXW4aYwOwcvZyWewJBN+PUn8cYVLOlXeFOUywQyRSStoeOVH1E7FeCD6bH+cbzobMYKDL5aSsBEntQZgQDcgW9Tsb9tvphZQy6WVgRqXcXAP94J0dejzqKtV0DYNHdWXsL349eMCbWerK500XVtdPmNQ5qAKivdRCzxtq9pa4CMB5HcCw9cA+oYJImaGUgvFdGINxq5b77fTFf6ilPWvNSSP4qkhZi+og2308W7X57HA+urA6EarjtfA8t/EjmcWs//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>A Legacy Restored</div>
+                                                <div class="unlocked">13 Jun 2026</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+33 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQcABgIDBAEI/8QALRAAAQMDAwMDBAEFAAAAAAAAAQIDBAAFEQYSIRMxUQdBYRUiMoGRFCNCUqH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQQCA//EACARAAMAAQQCAwAAAAAAAAAAAAABAgMEESExEkFRcbH/2gAMAwEAAhEDEQA/APlbt2NQ+M5rot8Vc2U3HbI3LOBWcWEp+4CIpaW1bynKh70AWvVtlZsuk7UErzJfWVrHhJGRVQjRXpbnTitKcV4FNjUEVm66YYYdYck3aGnIDZx9uMAkUX9MdFPX+0KuVxdYEJolLiWU7Vt48mkMT9x05eLWyHp0B5hojIUocYonoCIZ06VGIPTcbws+BTp9SdPTLZZWYM99C7c5zHmEcIz/ALeaoGkbdJSZtzkBCXUo6bJQNqXMe+KE/QNCznMlia+12CVqSM+Aa0YGeP5ovqaIuJc3FOOJcUs7jj2Jrnm2yRDiNPvDCHjxxTEaIEpUKYzIb/NpW4fNNWwW+2a4lpuUoJE1tIC2WPsyB2OPNKIeDRjT65EdMyVEkKZcYQFgA43c0ANPSdnuNtkTpzb6JUJlR67GMuBGeBk1aPROW4nWdyg2/cdPTE/3UqOdhJyaX8LV18ukUFuMOpGQFOoaTt6qfnzRK2P3FrqXnS8ppiMRiXHUnKm8dz/NJNN7Ib63LH61pvMRTUGY8F2YOkpX4TVYuUK7XzT7a7S0qFZI6eZS+yj71ndpF3usVu4XOc39ESo/asZKj7gGgkHUV1+nyFqCk2VgktNgYSo/Pmh7LkFz0aoFltVqKpGoFOThjLTzS8JB+Qe9VXUl4N4m5QOnGR9qE+APeul+fJuybk9LP4tAoSkYSBnjiq5mhMTIO/HeidhfUiStgYzIGzJoZ7Af9r1BIUCFbSOxpvkBm6eublikQlxo5fded6clOM5R7YpnaxgQ7deLe9aIymXLghIfT/hjGeRSWi3K6P2xVxY6QUwAlxWzgJHA/dOu4OS5Q0U4rapqW8EOnHONtQ6luLm1x3+FOLapqWVxVrj3HUNns8zcmG3ILq0A4DmfYUN18625q+RZmIZaszTSeEjG35NMTWkeNF9WrYwwAhpttCiP1Sr1ldpwvV3LSUKtpBS+Nv3lOfY1nT27uXXwPKlKaXBQ5aPp9sdCXBvfcU2Wz+QQOxoFjtjvXXcJa5skuuEBONqeOwHb91y5xmr0SmFSpUpgFbJdXbcpxOCuO6NriPIpx6e1Ku9zdMJaGyMxJwkH4FItA7c4o3pW7O2+829ZXhll3ftFcc+Pzn6OmK/Fjw9RbkhXqdIkF0IRGitqz5pK3+/f1AfjRApLK3FKWVHJVk11eoV9N11E7IjuHYptKSQe9VRRGOefkVjTY3Mps3ntVTSMK8qVKpOB/9k=" alt="" />
                             <div class="about">
                                 <div class="name">Baldur's Gate 3</div>
@@ -196,81 +271,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+6 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUCAwYBAAj/xAArEAACAQQBAwQABgMAAAAAAAABAgMABBESBSExQRMiUWEGFCMyQnEVUoH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgEE/8QAGxEAAwEBAQEBAAAAAAAAAAAAAAECEQMSITH/2gAMAwEAAhEDEQA/APmXCquBXVQa1JcE9qnEHkfVRQDpFaqu5bUt0x0ozjLQ3d0luqnMhwBTCS0srEKnIB7ksMgwnXH90z/CnGwtzPH3Nm5MZlP6ZOT2rGw6eAPPWC8bx1tazwyGUSFhg0iKjZiTg46L5rW83HNy1/dT35/TgYgKvQ4BoGG04u8YRWaSRXBGMu2RWejIZnwtd1qckZSV0PdWIr2prRiCldtwP+URZSm3n/MAA48GhlfPjpRvG24uZdWPtrNM0ZcrE3KlLuyG5wA8a+PuiOMzxSCb1N7r/RemlUQyWsdwyLLo2NSynAoR2nikkEhyW7L5YfVTodLTSc36c49WKVYXmQDVv5N5pHYWps76Ka4YRxodtz2NNOWgaLh7BoYyzFzgnr4pO4iTJmkZ89lz5o0xJ5lPMTWs1yTaRsuTksT0NCYxjB2PwKJvIhDgxurg9cAdqHGCNh7W+6VMp/AdTjq37j2FPPw/HbtbXiSvrK6YXr2pEAdlD/vHipRlgpkViHzjFVUkMO/x0xlzLGwGcA/NPU41Z4Zbi5OgRAEyfis7HPcTzRpJIfccAA0/5uUI0FrrJrGod8HuDUdMSKmNAYJ5hcLG0usaHJD9QBVU9hK8rNbgyq59hHzRZt47i0mnjVo2Rfdsc9KClvZYrWK19QAod1ZenehVevwZzh3kI/RsIoT0k2Jb5oBm2c/QFduJmmkDsc4qonyPNNK8hMgOpye9dqlXqRer8tsgIhkEbCQ+5mOAB4rbwWtrzlslwLqOCfUIQ31WBU+4CPv4zRtmYvRZnlcOD0CtjrRdubwWaNhyf5XjeLNrHKk8kvtOvcVj7zrq2hVj7cnz/VFie3aUMdlZR3Y52oO/nEswKsCi9gP4n5o+UeSul/Cjp2rmRUdhXthXTmgp6f/Z" alt="" />
-                            <div class="about">
-                                <div class="name">Monster Hunter Wilds</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Adventure, RPG
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        114 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 11 Jun 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            32 / 50 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwAEBQYCAwj/xAAvEAACAQIEBAMHBQAAAAAAAAABAgMEEQAFEiEGMUFRIoGRBxMUYXGx0SMyQ1Kh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EABsRAQADAQEBAQAAAAAAAAAAAAEAAhEDMRIh/9oADAMBAAIRAxEAPwDneCAyukcaFnYgAdzh/TZf72nlVBqqdegb+FQP3MftjLLY/wCWM3mSRAqnkb3H4xYsmyTNM6qXy/hqnaonRryBB45Cb3PyA6npjLaz4S/PmZrKtm9BFR06KxaWdiCzDZUH07n5+mIjMKRqaQxsNwA3kRfBDzbIMyoqgUec5ZNG8AMsiRq1ohe36n9Qbc7+eK5xRFcRsEYNvcsLX5YFLogxr8zFIsuliheN5DpZJFa99ivIjy5+uDb7IauXhzJJvg5U+KzGxaXSAYiuq46hud97b2wBIZdJVgfEOW18SFNViR1jnfRFfbQxGn/fvifWrY/HI3Kx4wse2fi2asjqMtmJarlEQvGbhltexP1J23te2BbnKMYwGtdRYkcr8z+Ma3qoIp2MJZ3XwiR31W76eg67+mGddWB0K6tu3bC1+gK+w2w3J//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Someone Worth Following</div>
-                                                <div class="unlocked">10 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Completed 100 quests with your Palico deployed.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgAEBQcBAgj/xAAuEAACAQIFAQYFBQAAAAAAAAABAgMEEQAFEiExUQcTIkFhgQZxkbHRFBUyQkP/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAGxEAAwEBAQEBAAAAAAAAAAAAAQIDABFBEyH/2gAMAwEAAhEDEQA/AOd4IDK6RxoWdiAB1OH9Nl/e08qoNVTr0DfwqB/Jj9sbZbH/AKxm8ySIFU8G9x+MTiZdWvTx/twVadpmjkn82kFtV7cc/cC3nyO/PzXnIEdOHM3oIqOnRWLSzsQWYbKg+XU+v0xEZhSNTSGNhuAG9iL4sTN8hqaGgppc6jp4YnlAiiSTxG4JGpf6ggDk33HXA38URXEbBG1b3LC1+MZOvfe50kACRll0sULRvIdLJIrXvyvBHtz9cHXZ5WJTQ1tLPVRQ7kmKRNfetfkC4sbefrit4ZdJVgfEONr4k8uzBo6pW7zuTbTriOlgOl78Ylef0QrlBwpHcV9odTC8VPBDV/qyRdVK2ZWY7j1PG/ywL5yjGIBrXUWJHF+T+MYqK+M1ckoZpZh4e+dtR9uB6X5wwrqwOhXVt06YM0KKEHmVGB7v/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Power Is Everything</div>
-                                                <div class="unlocked">10 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Forged five different weapons with Rarity 7 or higher.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABQYDAQcI/8QALBAAAgECBQMCBQUAAAAAAAAAAQIDBBEABRIhMRNBUQZxFTJhocEkgZGx0f/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMRBCESEyIyQf/aAAwDAQACEQMRAD8A8709O00iRxIWkchVA7k4VosoaoppUjUtViXQAPlRV+ZmPjsPtfHOTxEfqISDURSxhEPDaiR/mLqSoWpyGDJPT9PTUaQTF6/M5CerUSnnfhVAFvPYd7kUZkNAWlrS40FAZ9ldPltIqP1ZqokF3sVSMc2ta9z9SDtxgfO8slyutkpZgNaAG44NwD+cdhVVM/RhXM6aF6eBhIDTuCi34DC52J2J8jfnAPrcNMYHYOXs5LPYEgm/HuT+OMMkZj9hSS0g0VjlMsEMkUkraHjlR9ROxXgg+2x/nFbk9RImVR0ztGCjsjRk2JYNybebjnxiBhl0srAjUu4uAf7wrRZiDMFqbLHwDGSrKBwL349+MONkCI+QVtPHafzWfr5fIkERWV06CwC5LszKBYHe/b64E9QwSRMYZSC8V0Yg3Grlvvt+2M/iKU1Y0tJI/UQkJKz6it+dPFvF+fBwfXVgdCNVx4vjLJn7CGt+Kg3Vlf/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Seasoned Hunter</div>
-                                                <div class="unlocked">9 May 2025</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
