@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            357 games
+                            358 games
                         </div>
                     </section>
                     <section>
@@ -51,6 +51,81 @@
                         Recently played
                     </h2>
                     <div class="medias largeable-flex-wrap">
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,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" alt="" />
+                            <div class="about">
+                                <div class="name">EA SPORTS FC™ 26</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Simulation, Sports
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        30 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 27 Jun 2026
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            6 / 43 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABgcAAwQFCP/EAC0QAAICAQMCBAUEAwAAAAAAAAECAwQFBhEhABIHIjEyE0FCUWEUJGJxgZLR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFBP/EACcRAAEDAwIEBwAAAAAAAAAAAAECAxEABCETMQUSQXEyUWGRkrHh/9oADAMBAAIRAxEAPwDzpo/Trags2lMpihrRrI7Abk90ipsP9if8dL6Hh1jp6tKzbyNmsLUK2Y6kMP6qy8Tb9rdq7IgO3Bdh/XWeDcQbG6ml53RKq/jmcf8AOnejrsdnEYSwrD4drHR0/X0nrF1aP+yjI4HzBP26StSkyRUC5v3mlXC0idPlgdwCZ95oEuidK3Mfdv4PU5yUdaMzPSkQVLiIPXZH3WQj+DE/joXqbEw4u1H+isSWacwdop2iKBwrsvlP1Dgcjjnb5dWnREWmctoQ1cbcjwrlBSu3cjjuxWsyg9v7tGJ7RszBCFB+rjoV4wqTjNNSM8TuRbjLxAhG7Zz5l/id9x+OmQZqg84pq4aAOFkg/EkfVb/BJ1lo6qqIe6y1eCwkY9WWKTubb7nYjrmeGOEuQ5uLC5ezIcHmbLQ/CrSLuZ492DgkHsIA9y7HZgAeTtNNL527prOVcrjXC2IG3APtcHgqfwRx1ZMNJpjVFaGfT+YlwGVjIkNOe88TRSebzQyEkHfubjb6j7d+nJb1PDvWC5UuwuVPkS2uJgTECM+XTPcYxXb5bT2OzGiKOGmSxVFLTaajguwyCOksrMFaMxBfMSPWRmL92/y46E+PMqBNOVySJxFYstG3uVJZe5N/sdh0stZXT2hNOwY69mp8ylZviwYWG+08LSb7hpdtkAB5C9vrz5j1DtUZ27qXOWsrknDWLDbkD2oBwFH4A46JaNMQd6Npw8QuW30JIQicnEkiMekdf2v/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Defensive Dynamo</div>
+                                                <div class="unlocked">26 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Keep 10 clean sheets in UT Squad Battles</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAMBAAAQMCBQIDBgcAAAAAAAAAAQIDBAURAAYSITETQQdRYQgUIjJxgRYjQlORscH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwQFBv/EACcRAAIBAwIDCQAAAAAAAAAAAAECEQADBCExFEKRBRJBUXGBscHR/9oADAMBAAIRAxEAPwDnDK1DFadldR5TTUdCVnSnUtZUtKQlI7q3J+2NF2gxWvfyun1wCCQJB0t/l38/727b8Y1vDCP1aFmdwBYKExU9RFypoF3dxIHKhYWHr9sbucc3Uer5fq0CLUpDLzGkIWE7TOxH0vzx58bYQ5YNA2rPZGbkcWbVsEqCAY8JCmdPU/O1Q5d8JpFfpMWowoNQbjzL+6JlS4zDkq37SFkFX+9sA+c8uKy5NZa1uLQ6FkB1strbKXFIKFpPChpFx64cdRqdMzTAbzBTk09tEanwYDs6drKqOQnpuhpq5SuwstKrAgqOm5tYX9oeUxVq1ErcMr90qDj6mdaSFKQ2G29ageCooKrW7774bEVPF1FvKiXJMlSN+Ut+VD4BqiyarLpE0IWzPejhbSjYOpRrUEE9gpfTSfrbvi4jMmZsyuVqkZupzTdGZbWXiaVtStPBbKACi3G5I874VlDqj1HqbMxhKHCg/E24LocSeUqHkf5HI3GHo5WaV4k5fTC/FE2G4Qnq0uozykBQ4KHCPjHorV2+U4ciF9BvQ5V5cPvsykB+YAGDAGvTQwR9hFQqVLl0+FkvIrUhyNIkpelzZA0qfUN7kfpQkDUSbcfUm548PN9PLke9ng1IkqQeUodd1Iv5XGCJCsm+G0BxSn41SqShYRI7weW6eQHXAAEoBsdIAvbfVhM5ors3MtclVWpLCpEhVyB8qANgkegG2DdBbWDvVb2fa4jIW7bUi2kmW3ZiIJ6e2gA8h//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Tactical Designer</div>
+                                                <div class="unlocked">24 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Create your own custom Tactic in Football Ultimate Team</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgEEBQcCAwj/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABhIHQRMUITFhgdEiUXGRkv/EABcBAQADAAAAAAAAAAAAAAAAAAMBAgX/xAAiEQACAQMEAgMAAAAAAAAAAAABAhEABCEDEjFhocETUXH/2gAMAwEAAhEDEQA/AOdNn7dbcFRVAymKGmjWR2AyTykVMD/RP1rfaaOwVNZIZKa+z0tPFJLUeXWMsigYDHsF5lck9joo6ORBrbuaX1yiUqj7mH40L7JjoXulW91Enk0jXxSilyFaZFJCBl5HDHAJxnGjzuM1ladyzXOsrEwhUADsD2ald2bQptnXOntm56S7UlfLBHPwWSFxxbuCCe4Ix8aht7baO266CJZjNDOrujFcEcZGTB+f0g/en/UanenvdEJ4JqeoMRSWOYvzUpNJGoIZmKnii5XOB20R9cIgkFgk7saxf6nP51InFGbhkudFVJhywIPQPsUnRJllod1UiHNS9PBUJGPdlik5Nj6I052bsGurdu3Oakoo7lI8iLJCKkQeIhbKgMe2AJD8FPkarbbd6q9v3mnuNAV8WIkFG9VkUjDKw7ggkauSzSba3XRI9pu62u48AslDcJI8qR7GORkPIYwMHPoB7aZdP5OOaC73WVw2uyyjwT0QIzg44M/fnDqB0wNu27a5KOoMlIkz+Tqah1LtBy5MGAAKjBMgBGQBJntqD68SxiPblPnE4iqKlkPuqSy8kz/IGiq/XLb21aJ3uN4FyuPhlEoqB4izk+hMkqRjgMEjC4OCffVH7kvVVuC8VFxriviykAIvosagYVVH7AADSOg01g81WzD3tytwF2okkdkiDGBjk/vj/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Full Chemistry Charge</div>
+                                                <div class="unlocked">24 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Build a squad with 33 Chemistry Points in Football Ultimate Team. Excludes Concept Players and SBCs</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+3 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAEFBgcIBAMC/8QALBAAAQMDAwIFAwUAAAAAAAAAAQIDBAAFEQYSISIxB0FRYXEIEzIUFVKBkf/EABsBAAICAwEAAAAAAAAAAAAAAAYHBAUBAgMI/8QAJREAAgIBAwQBBQAAAAAAAAAAAQIAAwQFERITITFBIgYUMkJR/9oADAMBAAIRAxEAPwCw6UUlHlSdI2UKPUOtv1htCiAnsOakuhWW3pbjy0qSpHbNNNkhfuE9tB4weR61ZUSI1FSEtthOByQKJNA09r3F7epT6nlBV6QkF8adNQLzpSbJlKUh9lvKDnjPxWQHVhDi23ApwjpCkpOOK36+0280pp1CXEH8kLGciodruTYNI2Jy4v2WK73wgMpyT/lMvFyWq7AQYesHvMZnepIDTa938SDmlVy4nnePMgY21eafGjTu5JOk0exDaOKqTUN/kXuS8XWI7DK3FKQhpsJIBPGcVcVWvafkJHKCaGAyjq4NKonKQmvk5KcmvSOhb76UNDnNee6lIcIfMYzNxQvLE01bG4cVC9nWoZzT2ckjJ4rwtza2obKVkE7RTbrC+I03p2Zc1ILgZQVYFNfDoWqtVQQJvsNthYmR+7+Jtjst6lW66uCK4wgLJWfyB7Yqjdf+LT+p7Y/a0xdzCnFD7oAxs8jVb325P3q7SrhIy446snCuenPAriPpuCcCiXGxET5MJBew+IYxwOwoooqcOB/ETluTNPJOM+a08gVJtEQm35RecHUnnFRpIUVjA6/SrA0hAXChb3hhauf6pGaJjm3LFpHYQ51K4LWVB7mPU2Y3Da+46QBnFc12t8e+WeTBfAVHkN4J+aimt7iVyQyhXQ31KxTnoy5rkN/pnATtGQfajCrVQ2UaR49SjfCIpFsyFrCxydNall22QkpLaitvjuknimM42+vOVVoP6orbCabttxTgTluFCvdIHFZ+VgEFHIP5UdYlnUUSlcbGHxRR8dqKk7cTNAdprTTEMzbulzGUt4JFTa+3Fu2wic9WOBTRo5oRoDsojk5FRq9XB2fOWVZ+0k4xSeSwafh7+zC1qzlZB/gnDJeU88p5YJUo+fpVgaSt4iQUrWQVuc59qr5CSt1CUdQJqeaokz4OjZLtljLfnBjDaU+tZ+nKvuLy5m+rnpooHgzNfjzqQ3/WbrMN5JiwwAQeeocGq4AA3qHII7V13hiazc5Au0dbM1Si44k+eTXGrqXuT04Ham3RT01EEnO5ijtRRRXUHkZoBvP/2Q==" alt="" />
                             <div class="about">
@@ -96,81 +171,6 @@
                                                 <div class="unlocked">29 Feb 2024</div>
                                             </div>
                                             <div class="description"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYCBAcDAQj/xAAxEAABAwMDAgQFAwUBAAAAAAABAgMEAAURBhIhBzETQVFhFCIjcYEVMkIWM2KRwdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACgRAAICAgEDAwMFAAAAAAAAAAECABEDIRIEEzFBYYEUIiNRocHR4f/aAAwDAQACEQMRAD8AwRyBsd8J1wNKxzurSummhbE9YxqHVJdfhOuKZjssr2KUtPfmrVt0SmIJDc9abh8uW/D4IPua7dO9WW2xk2PUMZcuE28pbDbRwW1E85q9gcg/Gu5Iho0049SunNlRYmL5pUPREuLKHYshe9aQP5fmiUPogiLYoci6IcfdkpCwGlYwCMirGueolqTPhx7TBcjNMq3qQ+dwUDQewaxft+pU3WXNekA/22CslCfx2xSe26kKy7jjRBYHU8n9NdJR2X4ke9NvXzaCzFSTuUo/x+9MLXQKKqCyhUgszJCBsKlZCldynFVYusoP9TsSvgmVfUK2SEDelZ75PpUofU1qDc5zoRJW0+SgoW5koIPdPpXAr3xrc6K48r1FrqNoC0aOtqQ8XETl/IjcvgqHtSVpWBHk3hDSpKBkDcryFMfU2+q1XdP1CXIGwICGmfMY/wC0qwLY8EpcSvwEKPc96LIOS9srRM7iJxsMinxLDF+uLduKWJLgafJQpRJyPsav2yS5FivtsMhaXUjLyxuOfY1bszrU+3GM7HQ2pRP1MDB+1Wn9PXRtaHorZcZOAjaOM+9Z+LquTnH4I95Zl6PtoHvR9pqGi7FaNR2GLPvcEuvtna3swN2PWp3/AE5p1iOplq2vtL5Le5XO7/ymPQcSOyPhIjoWG2UuLAPZZ7gV21TFUzJtqnsfO6QP9VRv0kZ0dzHbNarRa7iiTdmXl5WQMLxxQ/VditStQJZtAcbD+FI3rzgnnmjVos7F31My1HW4YrklaVb1ZAPnS3qGLJhXMyd5StD6mgT22g8VIC/dYEzbKYPplZV3X8+f2gqTboTTm15SnTnaQk/tPrVF+OhoSGx4rxCcpKVcJorCuKIkn4RRbkIlHCjj5k/mhN0wb8Ydv3FpYAxnkmqVduVAzLKArZkmJ0b9ODb8pHBztRwa1zRCJr9gaRNeQdp3ISBg7fKsAgs/FTGEKAy4rBPlWywXo8VDaXVupIQE5C8CljCmNrhZerfIoUx7tUSLptqc+J4Q6+jjcrO05pf6rajgxbPbHLZcg9MaWVn5iQCR50pa9ebdeiqjyVeAvCXE7uaBdQNNyLdHhSS8HFSEgBHtjinLTLfx/slLqGr2g+x6juURG+I4ErS6p0E+p70XtsmXe3mw99ZbizgJ81UoW2M4l1YcyjaM8+dOugLixb9UWtCsKabd3kemRScmEkllPqJpYOrRECuL0QPiv7ld/SsmDKeU+CFKGR/jSa1Jdj3BWFAKSsgKPevpx1VvfhylIW06p4qwTzivmO8M/B3uUgckOKV7d6agsnkbkmXIhAGNeP67uVIxcYeQ42CCD50cVMdfG551XbyNCFSUrz2x7V4k7gMK2ilsS3mZbs2Qb1DIdQ40vxHlEpwUgmmXXMx6RNiMSHAQ3HbUjH2pJtrrUaY284kuISeU+tXbvc/jZocdBScAJz6elBVaiiv2lQZNf02VqJ/B7muDyfAdD28pKkjkHGK9t01MSY2+8nxG0nJQfOqU2Ql2S4pIKQokgE8CuqNG4zGT2+BPrL0e5SY6t0eY6PZSyaF3BbkmSXnFguHv71BbmOf3H2qBdBGdwz6USkrDxll8T//Z" alt="" />
-                            <div class="about">
-                                <div class="name">EA SPORTS FC™ 26</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Simulation, Sports
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        20 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 24 Jun 2026
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            5 / 43 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAMBAAAQMCBQIDBgcAAAAAAAAAAQIDBAURAAYSITETQQdRYQgUIjJxgRYjQlORscH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwQFBv/EACcRAAIBAwIDCQAAAAAAAAAAAAECEQADBCExFEKRBRJBUXGBscHR/9oADAMBAAIRAxEAPwDnDK1DFadldR5TTUdCVnSnUtZUtKQlI7q3J+2NF2gxWvfyun1wCCQJB0t/l38/727b8Y1vDCP1aFmdwBYKExU9RFypoF3dxIHKhYWHr9sbucc3Uer5fq0CLUpDLzGkIWE7TOxH0vzx58bYQ5YNA2rPZGbkcWbVsEqCAY8JCmdPU/O1Q5d8JpFfpMWowoNQbjzL+6JlS4zDkq37SFkFX+9sA+c8uKy5NZa1uLQ6FkB1strbKXFIKFpPChpFx64cdRqdMzTAbzBTk09tEanwYDs6drKqOQnpuhpq5SuwstKrAgqOm5tYX9oeUxVq1ErcMr90qDj6mdaSFKQ2G29ageCooKrW7774bEVPF1FvKiXJMlSN+Ut+VD4BqiyarLpE0IWzPejhbSjYOpRrUEE9gpfTSfrbvi4jMmZsyuVqkZupzTdGZbWXiaVtStPBbKACi3G5I874VlDqj1HqbMxhKHCg/E24LocSeUqHkf5HI3GHo5WaV4k5fTC/FE2G4Qnq0uozykBQ4KHCPjHorV2+U4ciF9BvQ5V5cPvsykB+YAGDAGvTQwR9hFQqVLl0+FkvIrUhyNIkpelzZA0qfUN7kfpQkDUSbcfUm548PN9PLke9ng1IkqQeUodd1Iv5XGCJCsm+G0BxSn41SqShYRI7weW6eQHXAAEoBsdIAvbfVhM5ors3MtclVWpLCpEhVyB8qANgkegG2DdBbWDvVb2fa4jIW7bUi2kmW3ZiIJ6e2gA8h//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Tactical Designer</div>
-                                                <div class="unlocked">24 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Create your own custom Tactic in Football Ultimate Team</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgEEBQcCAwj/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABhIHQRMUITFhgdEiUXGRkv/EABcBAQADAAAAAAAAAAAAAAAAAAMBAgX/xAAiEQACAQMEAgMAAAAAAAAAAAABAhEABCEDEjFhocETUXH/2gAMAwEAAhEDEQA/AOdNn7dbcFRVAymKGmjWR2AyTykVMD/RP1rfaaOwVNZIZKa+z0tPFJLUeXWMsigYDHsF5lck9joo6ORBrbuaX1yiUqj7mH40L7JjoXulW91Enk0jXxSilyFaZFJCBl5HDHAJxnGjzuM1ladyzXOsrEwhUADsD2ald2bQptnXOntm56S7UlfLBHPwWSFxxbuCCe4Ix8aht7baO266CJZjNDOrujFcEcZGTB+f0g/en/UanenvdEJ4JqeoMRSWOYvzUpNJGoIZmKnii5XOB20R9cIgkFgk7saxf6nP51InFGbhkudFVJhywIPQPsUnRJllod1UiHNS9PBUJGPdlik5Nj6I052bsGurdu3Oakoo7lI8iLJCKkQeIhbKgMe2AJD8FPkarbbd6q9v3mnuNAV8WIkFG9VkUjDKw7ggkauSzSba3XRI9pu62u48AslDcJI8qR7GORkPIYwMHPoB7aZdP5OOaC73WVw2uyyjwT0QIzg44M/fnDqB0wNu27a5KOoMlIkz+Tqah1LtBy5MGAAKjBMgBGQBJntqD68SxiPblPnE4iqKlkPuqSy8kz/IGiq/XLb21aJ3uN4FyuPhlEoqB4izk+hMkqRjgMEjC4OCffVH7kvVVuC8VFxriviykAIvosagYVVH7AADSOg01g81WzD3tytwF2okkdkiDGBjk/vj/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Full Chemistry Charge</div>
-                                                <div class="unlocked">24 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Build a squad with 33 Chemistry Points in Football Ultimate Team. Excludes Concept Players and SBCs</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcBAwQF/8QAKxAAAQMEAQEHBAMAAAAAAAAAAQIDBAUGERIAEwchIjEyQVEVYXGxUmLw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwEABf/EACURAAECBQMEAwAAAAAAAAAAAAECAwAEESExEkFxBVGxwRNhgf/aAAwDAQACEQMRAD8AibFq0mPaseqTVSHuvG6yXUPaoCtiko1CFHwq1BOR6h5c3vWjQkVqZSmplVlTIa1NvCPT9kpIOCc9QYGfc45nswn/AFOBPtZ5aA7ISt6Apz0h7UhSD9lJ/XENKDU26aomtx224r77kxbbhX01uO+FoLUMEBJ2GTgBQOcZ4KCQSFRxZZ4tvOtTCiVA1FzcHFPHIsI8lixrecr8Civ1Csw585xLTAk0vRKio4ByHTlOfcZ5xT7PpCrOXWYTzzfTjddTi3dklWwQEaltJ8StgCCfSfMccVcR4N40dFvx2nIcZ5qoobbK+k04z4XghZ2JClajZOQpRAGdRwd2s1MwYtPtVpaC5EQh2eWu5Jf0AS2P6oT3fkn34wTasaYeLrzTUuqhrU32Ga+OciJ1ClPQpjEqMstvsrDiFjzCgcg8sVzVp2RSKfdlDIQiW061LaQDs3I1AKfwVEK7/j78i3HvZZd8S33J9OrfWNInoGVtDZTDqTlDiR74P6HKlIUoVhOqSvyBL6E6lJ27pOR7HFN4f0eq1Gj27Luu7FIelMtNNxG19ylu6kttkfCdi4R8kfxxyEzJLsyU9JkuKcfeWXFrUclSick8bdqd4sXJJhQqSX/pUFJ1W8NVyHVHK3VD2JP+GccB8R0iulOBE6TKFpBeWnSpW3YDA9/v1H//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Power Shot</div>
-                                                <div class="unlocked">23 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Score a goal using the Power Shot mechanic</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
