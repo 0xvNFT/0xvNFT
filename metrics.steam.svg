@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="646" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        30 hours played
+                                        33 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 43 achievements unlocked
+                                            7 / 43 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcEBggD/8QALBAAAQMDAwEHBAMAAAAAAAAAAQIDBAUREgAGIRMHFBUxMkFCIiNRsWFx8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAJREAAQMCBQQDAAAAAAAAAAAAAQIDEQAEEiExQVEFMnHBYYHR/9oADAMBAAIRAxEAPwBJsbVpMfaseqTVSHuvG6yXUPYoCsikoxCFH6VYgm49Q8tT6hsWkQHHg9Kqam2pRhl5ENOBdCsbC7oNsuLkAX1w7MJ/icCftZ5aA7ISt6Apz0h7EhSD/Ck/rR+XUPEFzaZNqjtJqT9YalMB37sdTDqiFJsU3ybXdVjxcGwvzpKJkg1x7Raw86w6qVjMSTEHT8PyDlQiDsSiv1uJTZM+fDdnye7Q+tDGThviVKT1LpTlwCMgefxbUWfs+kK2cuswnnm+nG66nFu5JKsggIxLaT9SsgCCfSfMaPGsVCZuWHQnHxWEUmW93mQpI6UxhCxaxxyT5JSAPdWhHa1UzBjU/arS2y5EQh2oFrhJfwAS2LfFCeP7J99NSkxJqcu3K3WmScK5JMEkYQdc+dvIkcLqFKehTGJUZZbfZWHELHmFA3B0/Wphq9Ep9WpctuHTJ81uTUG1RkPFmSg/c5UMrFJKgL/Hi1+c96v3ZZvCJt5yfT611vCZ6BdbQyVHdTyhxI97H9DRoSFKzqzqTToCbm3707cp3HseMtaatTqS6HQKhUqnOanU2DOdl01oRERy9JcN2rlIysEALIv8he5HGcpkl2ZKekyXFOPvLLi1qPKlE3J1du1TeLG5JMKFSS/4VBScVvDFch1Rut1Q9iT/AIeWqHoncIOFOgrenNOkG4uO9W3A2Hv7z0r/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Bullseye</div>
+                                                <div class="unlocked">27 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Score a goal using Precision Shooting</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -109,18 +119,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgEEBQcCAwj/xAAqEAACAQMDAgYBBQAAAAAAAAABAgMEBREABhIHQRMUITFhgdEiUXGRkv/EABcBAQADAAAAAAAAAAAAAAAAAAMBAgX/xAAiEQACAQMEAgMAAAAAAAAAAAABAhEABCEDEjFhocETUXH/2gAMAwEAAhEDEQA/AOdNn7dbcFRVAymKGmjWR2AyTykVMD/RP1rfaaOwVNZIZKa+z0tPFJLUeXWMsigYDHsF5lck9joo6ORBrbuaX1yiUqj7mH40L7JjoXulW91Enk0jXxSilyFaZFJCBl5HDHAJxnGjzuM1ladyzXOsrEwhUADsD2ald2bQptnXOntm56S7UlfLBHPwWSFxxbuCCe4Ix8aht7baO266CJZjNDOrujFcEcZGTB+f0g/en/UanenvdEJ4JqeoMRSWOYvzUpNJGoIZmKnii5XOB20R9cIgkFgk7saxf6nP51InFGbhkudFVJhywIPQPsUnRJllod1UiHNS9PBUJGPdlik5Nj6I052bsGurdu3Oakoo7lI8iLJCKkQeIhbKgMe2AJD8FPkarbbd6q9v3mnuNAV8WIkFG9VkUjDKw7ggkauSzSba3XRI9pu62u48AslDcJI8qR7GORkPIYwMHPoB7aZdP5OOaC73WVw2uyyjwT0QIzg44M/fnDqB0wNu27a5KOoMlIkz+Tqah1LtBy5MGAAKjBMgBGQBJntqD68SxiPblPnE4iqKlkPuqSy8kz/IGiq/XLb21aJ3uN4FyuPhlEoqB4izk+hMkqRjgMEjC4OCffVH7kvVVuC8VFxriviykAIvosagYVVH7AADSOg01g81WzD3tytwF2okkdkiDGBjk/vj/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Full Chemistry Charge</div>
-                                                <div class="unlocked">24 Jun 2026</div>
-                                            </div>
-                                            <div class="description">Build a squad with 33 Chemistry Points in Football Ultimate Team. Excludes Concept Players and SBCs</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
