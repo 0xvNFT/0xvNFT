@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 20 Sept 2026
+                                        Last played on 21 Sept 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,42 +85,42 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 67 achievements unlocked
+                                            27 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBQcI/8QAJRAAAQMDAgcBAQAAAAAAAAAAAQIDBAAREgUxBhMUIUFRYSJx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAoEQABAwMCAwkAAAAAAAAAAAABAgMRAAQFITEiQWEGEhMUcYGRobH/2gAMAwEAAhEDEQA/APKlaUPRZ0yPz47OTVyMioDbfc1Y4dYbc6hxxBUpFgCAFYXv+rHsdrf00x0drOK+VFTay8u4QopTsPHapLi5Legrp8JgU35CnSYIMRpt1IPxHvuKDTNFnQ4/PkM4tXAyCgd9tjWbXS9YiIejx2nFLUFvtpOSiR58Xo3xrEbjdGW0Moyzvy2gj163oWLvxCEnc03MdmvJIW80eBAG5BMkxyA6cqPxZLkZZU0R+hioEXCh6I80p0riaPGilEtt0uqWpZLaRj3t9+UPqaLJcjLUtlWKikoJsD2IsaodZS6IIrGxuVuMe53mlQPSfrTWlmpcUR3mEdI04Hm3EuDmAY9r+jWBrOsP6tyeoQ2nlXtgCN7fflUpUlyStK3lZKCQgGwHYCwqGhbt0NwQNabkM3d3pUla+ExpETG0jX9r/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABAACBQj/xAAjEAACAQMEAgMBAAAAAAAAAAABAgMABBIREzFBBWEhUVKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIE/8QAIREBAAEEAAcBAAAAAAAAAAAAAQIAAxEhBBJBkcHh8DH/2gAMAwEAAhEDEQA/AOVKUtjcNb76xOYv0B/apZ2zXUuCELoCzM3Cgck0wxvfXgitJC22mMWZClgvQ9n50FRKWK1WLHOZRc6A6vn2bo8nj7mOEzSQyJGOSy6UStQxm08hh5A5F0Ik0ORTId+x8HSgXMOxKUzVx0y8MPsUjLNOIskNxEw4Rdj2PhqW02xKHxVx2rcEfRp4kNpfh/HgMXQGPUZFNR17HyNay6XH5C6jhEUc8iRjpW0pKOacPeIakphyIbHufBSNx7693LuMtgmUuAClgo5PvjU0O8uWupc2CqAAqqvCgcAVc31wbfYMrmL8k/yi0jHFL1/njgVztXq+ff5X/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Record Keeper</div>
-                                                <div class="unlocked">20 Sept 2026</div>
+                                                <div>Interdimensional Defender</div>
+                                                <div class="unlocked">21 Sept 2026</div>
                                             </div>
-                                            <div class="description">Collect 80 Collectibles</div>
+                                            <div class="description">Killed 1000 Hiss</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgj/xAAkEAACAgEEAgMAAwAAAAAAAAABAgMEQQAFEjEi8BEhgWFxkf/EABcBAQADAAAAAAAAAAAAAAAAAAABAwX/xAAkEQABAgYCAQUAAAAAAAAAAAABAgQAAxExQYESIWFCUVJxwf/aAAwDAQACEQMRAD8A5U0xTqtZZvIJGg5PI3Sj3GdFOq1l28gkaDk8jdKPcZ1b2mKvuVpqvIwUoEMv325BAJf/AH8xquZM4gxoMmRcLSD6ugLVP3gDJ0O7RLlVqzL5B43HJJF6Ye4xpfWj3eGDbLYqlmmpzKJSB3GSSPlf6+P3Oolyq1Z18g8bjkki9MPcY0lzOQEHzIt1qT8TQi9D+g4Oj3cp2mrO3iHjccXjbph7nGre1S1dtsSWnWSejNGYwAASrfIPFgc/X7rOaYp2mrM3iHjccXjbph7nGkyXyBgyeGQtJOLG9NZHuNjza3WSpuM8dlEkgoQRiL4IALEEniv8/f5qLctNZdfEJGg4pGvSj3OdFy01ll8QkaDika9KPc50vpLRxAiHrwz1qIzc0pXWAMDZ8f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAQUGAAQI/8QAIhAAAgICAQQDAQAAAAAAAAAAAQMCBAARBRIhIlITQXHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBf/EABwRAQACAgMBAAAAAAAAAAAAAAECEQAhAwRREv/aAAwDAQACEQMRAD8A5UzMYcU2SV3mLIE4pBB0DrziPv8AcZcTK9bix7n/AB1FDc5kRHUfUEjWzmUuT5t8zodbpR52MRfqW9A6F2tnluT2DKLlpXqkVvU/5KjRuEwInpPqSBrYxdyzZOVRYwgzkkknQG/OQ+vzEeRlT7js9KPAyir9R3sDSmxt91g4lUnLvLXozkkADYG/OJ/mMONTbSJItVi2kw+cOuO4n2j37HJ/DllBleTg7keL5WLcdaSktaRi+4/5NNt4jXq1iqms+EOuO5H2l37nNDllSSqitgAnFJBGwdecj9YvwYjBjRjsdyPL9JFuWtpQWNARPM//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Directorial Override</div>
-                                                <div class="unlocked">18 Sept 2026</div>
+                                                <div>Career Development</div>
+                                                <div class="unlocked">21 Sept 2026</div>
+                                            </div>
+                                            <div class="description">Unlock all 3 Personal Mod slots</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABQQAAQYI/8QAJhAAAQMDBAEEAwAAAAAAAAAAAgEDBAASQREiMfAhBVFh4SOBof/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAIREAAQIGAwEBAAAAAAAAAAAAAQIRAwQhMUGBABNhElH/2gAMAwEAAhEDEQA/APKlUQ4pSSLcgNglxuFwKdxmtCilJMtyA2CXG4XAp3GaTfSOUFlEfNiMpkggjdxGqaamS68+eMVWtbUHNstK/YMRdhhwHxctR7nQ8MmRSjEO5DbNLgcHgk7jFT12JqK016Wbhvk/DLRVCy0hVVtuHzyn9ShZsUoxjuQ2zS4HB4JO4xQiIFU5KbklQQIgDAh2cFn9GDg6PuhyijGW1DbNLTbLgk9vulHFjBCbVWSfi3qoGhaECrpqJfPj90HVEOUUYi0FDbNLTbLgk7nFC0PUcUrNdY612Pjto3D3GxW7AOx3IJ/hNiKmgEV+qlot1op7/OEoibKKSY7UBsEtBseBT2+81xMlFJIdqA2CWg2PAp3OanoQhqnjm5wxQEJsKOzPoY/Bs+f/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>My Brother's Keeper</div>
+                                                <div class="unlocked">21 Sept 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYEBwEDCP/EACoQAAIBAwMCBgEFAAAAAAAAAAECAwAEEQUxUQYTEiFBYXHBMjORodHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAMCBAUG/8QAJxEAAQIFAwIHAAAAAAAAAAAAAQIDAAQFESESMUEiYRMVUXGRweH/2gAMAwEAAhEDEQA/AOXbGznvpu1axtI+M4HHNGIuktRcZYwR+zPk/wAZrHRMyx60FY47sbIPnf6pl6j1KXTxH4MqrDIYDcg7f7n2qi+86HA2iOvpFJp7sgqemyrpNiAfbt39YW5ektRQZUwSeyv/AHQe+s57GbtXUbRvjODxzT4LKa8v7K9S/IWKNe4gPmCQCRx5+uaWutpll1oqp/SjVD87/dDD61r0nOIKzRpWVllTDSVJ6gBcghQte+MjnmAlvM9vMksRKujBlPBFO8sK9UWtvKt0Io4/ziCZIb188/tSHUvTdQuNOuO9bP4W2IOzDginvNFdlIwobRk0mpIlSpmZSVMrtqAJG2xwR8cxYV3cWug6WO2oUKMRp6u3v9mq3uJnuJnllOXdizHkmt2pahcajcd65fxNsANlHAFRKjLseELnJMNrtZ8yWlDQ0tIwkff5xH//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Unstable Matter</div>
-                                                <div class="unlocked">18 Sept 2026</div>
-                                            </div>
-                                            <div class="description">Kill 50 enemies with the Launch Ability</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+9 others...</div>
+                                            <div class="description ellipsis">+24 others...</div>
                                         </div>
                                     </div>
                                 </div>
